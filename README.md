@@ -1,8 +1,10 @@
-# AI Architects · Project 1: Your site, live
+# AI Architects · Project 3: Give the AI a job (checkpoint)
 
-**Starter template.** Learners click **Use this template > Create a new repository**, keep it Public, and get their own copy.
+Finished state of Project 3. AI summaries are on (`"aiSummaries": true`). Each new story gets a 2-sentence summary from Gemini (`gemini-3.5-flash-lite`).
 
-In this project the news bot is switched off (`"newsBot": false`), so the site shows three sample stories. Learners pick a topic, design the site in Google AI Studio, and publish it on GitHub Pages.
+**Needs a secret:** Settings > Secrets and variables > Actions > New repository secret. Name `GEMINI_API_KEY`, value = the key from Google AI Studio. Without it the run shows a red X and the site keeps the stories without summaries.
+
+Known on purpose: duplicates still appear until Project 4.
 
 ## How this repo works
 
