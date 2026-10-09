@@ -1,7 +1,21 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-09T06:52:11.036Z",
+  "updatedAt": "2026-10-09T06:55:02.046Z",
   "articles": [
+    {
+      "title": "These clues might point to life on other worlds",
+      "link": "https://www.snexplores.org/article/clues-life-venus-mars",
+      "published": "2026-10-08T10:30:00.000Z",
+      "snippet": "Gases and color on distant planets may trace to activity by extraterrestrial life. If so, those E.T.s are likely tiny, one-celled beings.",
+      "summary": "Scientists say gases and color on distant planets might be signs of tiny, one-celled alien life. These clues could help us find living things in other worlds."
+    },
+    {
+      "title": "Some germs ride a superhighway at the edge of space",
+      "link": "https://www.snexplores.org/article/life-stratosphere-edge-of-space",
+      "published": "2026-10-08T10:30:00.000Z",
+      "snippet": "Some microbes common on Earth’s surface lead a secret double life. Soaring higher than jumbo jets, they carry clues about disease spread and alien life.",
+      "summary": "Some common Earth microbes soar higher than jumbo jets into the upper atmosphere. These high-flying germs help scientists learn about how diseases spread and what alien life might be like."
+    },
     {
       "title": "These clues might point to life on other worlds",
       "link": "https://www.snexplores.org/article/clues-life-venus-mars",
@@ -63,28 +77,14 @@
       "link": "https://www.snexplores.org/article/vision-eyes-see-color-afterimages",
       "published": "2026-10-07T10:30:00.000Z",
       "snippet": "By observing afterimages, you can learn how different cone cells in the retina respond to various colors.",
-      "summary": "By observing afterimages, you can learn how different cone cells in the retina respond to various colors. This experiment helps you discover the science behind afterimages."
+      "summary": "By observing afterimages, you can learn how different cone cells in the retina respond to various colors. This experiment helps you discover the science behind how your eyes see color."
     },
     {
       "title": "Physicists may have finally glimpsed elusive dark matter",
       "link": "https://www.snexplores.org/article/lz-find-glimpse-dark-matter",
       "published": "2026-10-07T10:30:00.000Z",
       "snippet": "For decades scientists have been trying to detect this invisible substance that fills the cosmos. The LZ experiment may have finally spied it.",
-      "summary": "Scientists may have finally detected dark matter, an invisible substance that has filled the cosmos for decades. Researchers used the LZ experiment in their attempt to spot this elusive material."
-    },
-    {
-      "title": "Experiment: Discover the science behind afterimages",
-      "link": "https://www.snexplores.org/article/vision-eyes-see-color-afterimages",
-      "published": "2026-10-07T10:30:00.000Z",
-      "snippet": "By observing afterimages, you can learn how different cone cells in the retina respond to various colors.",
-      "summary": "By observing afterimages, you can learn how different cone cells in the retina respond to various colors. This experiment helps you discover the science behind how your eyes process different colors."
-    },
-    {
-      "title": "Physicists may have finally glimpsed elusive dark matter",
-      "link": "https://www.snexplores.org/article/lz-find-glimpse-dark-matter",
-      "published": "2026-10-07T10:30:00.000Z",
-      "snippet": "For decades scientists have been trying to detect this invisible substance that fills the cosmos. The LZ experiment may have finally spied it.",
-      "summary": "Scientists may have finally detected dark matter, an invisible substance that has filled the cosmos for decades. Researchers used the LZ experiment in their attempt to spot this elusive material."
+      "summary": "Scientists have been trying for decades to detect an invisible substance called dark matter that fills the cosmos. The LZ experiment may have finally spied it."
     }
   ]
 }
