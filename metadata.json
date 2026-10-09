@@ -1,0 +1,8 @@
+{
+  "name": "Science News",
+  "description": "Clean, bright, kid-friendly science news website with bite-sized summaries",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ai-architects-p3-ai-summaries",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node -e \"console.log('Build OK')\"",
+    "lint": "node --check server.js scripts/update-news.mjs"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
