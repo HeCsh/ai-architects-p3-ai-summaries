@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-11T00:16:06.578Z",
+  "updatedAt": "2026-10-11T06:01:26.013Z",
   "articles": [
+    {
+      "title": "Anger or fear? Dogs may be able to read it on your face",
+      "link": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
+      "published": "2026-10-09T10:30:00.000Z",
+      "snippet": "Brain scans offer the first evidence that dogs can read certain human facial expressions.",
+      "summary": "New brain scans show the first evidence that dogs can read certain human facial expressions. This research suggests dogs are able to understand human emotions like anger or fear on our faces."
+    },
     {
       "title": "Anger or fear? Dogs may be able to read it on your face",
       "link": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
@@ -49,6 +56,20 @@
       "link": "https://www.snexplores.org/article/clues-life-venus-mars",
       "published": "2026-10-08T10:30:00.000Z",
       "snippet": "Gases and color on distant planets may trace to activity by extraterrestrial life. If so, those E.T.s are likely tiny, one-celled beings.",
+      "summary": "Scientists say that specific gases and colors on distant planets could be clues pointing to tiny, one-celled alien life. If these signs are real, the extraterrestrial beings responsible for them are likely very small."
+    },
+    {
+      "title": "Some germs ride a superhighway at the edge of space",
+      "link": "https://www.snexplores.org/article/life-stratosphere-edge-of-space",
+      "published": "2026-10-08T10:30:00.000Z",
+      "snippet": "Some microbes common on Earth’s surface lead a secret double life. Soaring higher than jumbo jets, they carry clues about disease spread and alien life.",
+      "summary": "Some common Earth microbes soar higher than jumbo jets into the upper atmosphere. Studying these germs helps scientists learn about how diseases spread and provides clues about alien life."
+    },
+    {
+      "title": "These clues might point to life on other worlds",
+      "link": "https://www.snexplores.org/article/clues-life-venus-mars",
+      "published": "2026-10-08T10:30:00.000Z",
+      "snippet": "Gases and color on distant planets may trace to activity by extraterrestrial life. If so, those E.T.s are likely tiny, one-celled beings.",
       "summary": "Scientists say that gases and colors on distant planets could be clues pointing to tiny, one-celled alien life. Finding these signs would mean that extraterrestrial beings exist in other worlds."
     },
     {
@@ -64,27 +85,6 @@
       "published": "2026-10-08T10:30:00.000Z",
       "snippet": "Gases and color on distant planets may trace to activity by extraterrestrial life. If so, those E.T.s are likely tiny, one-celled beings.",
       "summary": "Gases and color on distant planets might be clues pointing to tiny, one-celled extraterrestrial life. If these signs are real, they suggest that alien beings do exist out there."
-    },
-    {
-      "title": "Some germs ride a superhighway at the edge of space",
-      "link": "https://www.snexplores.org/article/life-stratosphere-edge-of-space",
-      "published": "2026-10-08T10:30:00.000Z",
-      "snippet": "Some microbes common on Earth’s surface lead a secret double life. Soaring higher than jumbo jets, they carry clues about disease spread and alien life.",
-      "summary": "Some common Earth microbes soar higher than jumbo jets into the edge of space and lead secret double lives. These high-flying germs carry important clues about how diseases spread and what alien life might be like."
-    },
-    {
-      "title": "These clues might point to life on other worlds",
-      "link": "https://www.snexplores.org/article/clues-life-venus-mars",
-      "published": "2026-10-08T10:30:00.000Z",
-      "snippet": "Gases and color on distant planets may trace to activity by extraterrestrial life. If so, those E.T.s are likely tiny, one-celled beings.",
-      "summary": "Scientists say that gases and colors on distant planets could be clues pointing to tiny, one-celled extraterrestrial life. Finding these signs would mean that living beings exist on other worlds."
-    },
-    {
-      "title": "Some germs ride a superhighway at the edge of space",
-      "link": "https://www.snexplores.org/article/life-stratosphere-edge-of-space",
-      "published": "2026-10-08T10:30:00.000Z",
-      "snippet": "Some microbes common on Earth’s surface lead a secret double life. Soaring higher than jumbo jets, they carry clues about disease spread and alien life.",
-      "summary": "Some common Earth microbes soar higher than jumbo jets into the edge of space and lead a secret double life. These high-flying germs carry important clues about how diseases spread and what alien life might be like."
     }
   ]
 }
