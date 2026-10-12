@@ -1,7 +1,35 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-12T00:37:19.701Z",
+  "updatedAt": "2026-10-12T11:02:47.086Z",
   "articles": [
+    {
+      "title": "And the science Nobels for 2026 go to …",
+      "link": "https://www.snexplores.org/article/science-nobel-prizes-2026",
+      "published": "2026-10-12T10:30:00.000Z",
+      "snippet": "Top prizes went for an icy window into the cosmos, a light switch for the brain and solving the mystery of mirror image molecules.",
+      "summary": "The 2026 science Nobel prizes were awarded for discovering an icy window into the cosmos, a light switch for the brain, and solving the mystery of mirror image molecules. These top prizes recognize groundbreaking achievements in science."
+    },
+    {
+      "title": "Scientists Say: Theropod",
+      "link": "https://www.snexplores.org/article/scientists-say-theropod-definition-pronunciation",
+      "published": "2026-10-12T10:30:00.000Z",
+      "snippet": "This group of dinosaurs once included Tyrannosaurus rex . Today, they include birds.",
+      "summary": "Theropods are a group of dinosaurs that once included the Tyrannosaurus rex. Today, this same group of dinosaurs includes modern birds."
+    },
+    {
+      "title": "Could Spider-Man really turn off his superpowers?",
+      "link": "https://www.snexplores.org/article/spider-man-rna-turn-off-superpowers",
+      "published": "2026-10-12T10:30:00.000Z",
+      "snippet": "In Spider-Man: Brand New Day, Peter Parker devises a superpower inhibitor based on real RNA therapies.",
+      "summary": "In the story Spider-Man: Brand New Day, Peter Parker creates a tool to turn off his superpowers. He bases this superpower inhibitor on real RNA therapies."
+    },
+    {
+      "title": "Anger or fear? Dogs may be able to read it on your face",
+      "link": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
+      "published": "2026-10-09T10:30:00.000Z",
+      "snippet": "Brain scans offer the first evidence that dogs can read certain human facial expressions.",
+      "summary": "Brain scans have provided the first evidence that dogs can read certain human facial expressions. This shows that dogs might actually be able to tell the difference between emotions like anger and fear on our faces."
+    },
     {
       "title": "Anger or fear? Dogs may be able to read it on your face",
       "link": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
@@ -57,34 +85,6 @@
       "published": "2026-10-09T10:30:00.000Z",
       "snippet": "Brain scans offer the first evidence that dogs can read certain human facial expressions.",
       "summary": "Brain scans provide the first evidence that dogs can read certain human facial expressions. This research shows dogs may be able to tell the difference between anger and fear on a person's face."
-    },
-    {
-      "title": "Anger or fear? Dogs may be able to read it on your face",
-      "link": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
-      "published": "2026-10-09T10:30:00.000Z",
-      "snippet": "Brain scans offer the first evidence that dogs can read certain human facial expressions.",
-      "summary": "Brain scans provide the first evidence that dogs can read certain human facial expressions. This research shows dogs may be able to tell the difference between anger and fear on a person's face."
-    },
-    {
-      "title": "Anger or fear? Dogs may be able to read it on your face",
-      "link": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
-      "published": "2026-10-09T10:30:00.000Z",
-      "snippet": "Brain scans offer the first evidence that dogs can read certain human facial expressions.",
-      "summary": "Brain scans show the first evidence that dogs can read certain human facial expressions. This research suggests dogs might be able to tell the difference between emotions like anger or fear on your face."
-    },
-    {
-      "title": "These clues might point to life on other worlds",
-      "link": "https://www.snexplores.org/article/clues-life-venus-mars",
-      "published": "2026-10-08T10:30:00.000Z",
-      "snippet": "Gases and color on distant planets may trace to activity by extraterrestrial life. If so, those E.T.s are likely tiny, one-celled beings.",
-      "summary": "Gases and colors on distant planets might be clues pointing to life from other worlds. If this life exists, it is likely made up of tiny, one-celled beings."
-    },
-    {
-      "title": "Some germs ride a superhighway at the edge of space",
-      "link": "https://www.snexplores.org/article/life-stratosphere-edge-of-space",
-      "published": "2026-10-08T10:30:00.000Z",
-      "snippet": "Some microbes common on Earth’s surface lead a secret double life. Soaring higher than jumbo jets, they carry clues about disease spread and alien life.",
-      "summary": "Some common Earth microbes soar higher than jumbo jets into the edge of space and carry clues about disease spread and alien life. These germs lead a secret double life by living both on Earth's surface and at the edge of space."
     }
   ]
 }
