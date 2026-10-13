@@ -1,7 +1,28 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-12T21:18:56.207Z",
+  "updatedAt": "2026-10-13T06:52:55.638Z",
   "articles": [
+    {
+      "title": "And the science Nobels for 2026 go to …",
+      "link": "https://www.snexplores.org/article/science-nobel-prizes-2026",
+      "published": "2026-10-12T10:30:00.000Z",
+      "snippet": "Top prizes went for an icy window into the cosmos, a light switch for the brain and solving the mystery of mirror image molecules.",
+      "summary": "Top science prizes for 2026 were awarded for discovering an icy window into the cosmos, creating a light switch for the brain, and solving the mystery of mirror image molecules. These top prizes celebrated breakthroughs in space, neuroscience, and chemistry."
+    },
+    {
+      "title": "Scientists Say: Theropod",
+      "link": "https://www.snexplores.org/article/scientists-say-theropod-definition-pronunciation",
+      "published": "2026-10-12T10:30:00.000Z",
+      "snippet": "This group of dinosaurs once included Tyrannosaurus rex . Today, they include birds.",
+      "summary": "Scientists say that the theropod group of dinosaurs once included the Tyrannosaurus rex. Today, this same group of dinosaurs includes modern birds."
+    },
+    {
+      "title": "Could Spider-Man really turn off his superpowers?",
+      "link": "https://www.snexplores.org/article/spider-man-rna-turn-off-superpowers",
+      "published": "2026-10-12T10:30:00.000Z",
+      "snippet": "In Spider-Man: Brand New Day, Peter Parker devises a superpower inhibitor based on real RNA therapies.",
+      "summary": "In Spider-Man: Brand New Day, Peter Parker creates a superpower inhibitor based on real RNA therapies. This device allows him to potentially turn off his superpowers."
+    },
     {
       "title": "And the science Nobels for 2026 go to …",
       "link": "https://www.snexplores.org/article/science-nobel-prizes-2026",
@@ -49,6 +70,13 @@
       "link": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
       "published": "2026-10-09T10:30:00.000Z",
       "snippet": "Brain scans offer the first evidence that dogs can read certain human facial expressions.",
+      "summary": "Brain scans show the first evidence that dogs can read certain human facial expressions. This research suggests dogs might be able to tell the difference between emotions like anger and fear on people's faces."
+    },
+    {
+      "title": "Anger or fear? Dogs may be able to read it on your face",
+      "link": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
+      "published": "2026-10-09T10:30:00.000Z",
+      "snippet": "Brain scans offer the first evidence that dogs can read certain human facial expressions.",
       "summary": "Brain scans provide the first evidence that dogs can read certain human facial expressions. This shows that dogs might be able to tell the difference between emotions like anger and fear on your face."
     },
     {
@@ -57,34 +85,6 @@
       "published": "2026-10-09T10:30:00.000Z",
       "snippet": "Brain scans offer the first evidence that dogs can read certain human facial expressions.",
       "summary": "Brain scans have provided the first evidence that dogs can read certain human facial expressions. This shows that dogs might actually be able to tell the difference between emotions like anger and fear on our faces."
-    },
-    {
-      "title": "Anger or fear? Dogs may be able to read it on your face",
-      "link": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
-      "published": "2026-10-09T10:30:00.000Z",
-      "snippet": "Brain scans offer the first evidence that dogs can read certain human facial expressions.",
-      "summary": "Brain scans show the first evidence that dogs can read certain human facial expressions. This research suggests dogs might be able to tell the difference between anger and fear on your face."
-    },
-    {
-      "title": "Anger or fear? Dogs may be able to read it on your face",
-      "link": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
-      "published": "2026-10-09T10:30:00.000Z",
-      "snippet": "Brain scans offer the first evidence that dogs can read certain human facial expressions.",
-      "summary": "Brain scans provide the first evidence that dogs can read certain human facial expressions. This shows that dogs might be able to tell the difference between emotions like anger or fear on your face."
-    },
-    {
-      "title": "Anger or fear? Dogs may be able to read it on your face",
-      "link": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
-      "published": "2026-10-09T10:30:00.000Z",
-      "snippet": "Brain scans offer the first evidence that dogs can read certain human facial expressions.",
-      "summary": "Brain scans have provided the first evidence that dogs can read certain human facial expressions. This research shows that dogs may be able to tell the difference between anger and fear on a person's face."
-    },
-    {
-      "title": "Anger or fear? Dogs may be able to read it on your face",
-      "link": "https://www.snexplores.org/article/dogs-read-anger-fear-emotion-human-faces",
-      "published": "2026-10-09T10:30:00.000Z",
-      "snippet": "Brain scans offer the first evidence that dogs can read certain human facial expressions.",
-      "summary": "New brain scans show the first evidence that dogs can read certain human facial expressions. This research suggests dogs are able to understand human emotions like anger or fear on our faces."
     }
   ]
 }
