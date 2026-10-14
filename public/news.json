@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-13T22:54:14.294Z",
+  "updatedAt": "2026-10-14T05:02:24.428Z",
   "articles": [
+    {
+      "title": "Is AI making us dumber? Depends how it’s used",
+      "link": "https://www.snexplores.org/article/ai-making-us-dumber-learn-lose-skills",
+      "published": "2026-10-13T10:30:00.000Z",
+      "snippet": "AI can weaken learning when it replaces effort. But tools that offer guidance rather than answers can help people hone their skills.",
+      "summary": "Artificial intelligence can weaken learning when it replaces effort. However, tools that offer guidance instead of direct answers can help people improve their skills."
+    },
     {
       "title": "Is AI making us dumber? Depends how it’s used",
       "link": "https://www.snexplores.org/article/ai-making-us-dumber-learn-lose-skills",
@@ -15,6 +22,27 @@
       "published": "2026-10-13T10:30:00.000Z",
       "snippet": "AI can weaken learning when it replaces effort. But tools that offer guidance rather than answers can help people hone their skills.",
       "summary": "Artificial intelligence can weaken learning when it replaces effort. However, tools that offer guidance rather than answers can help people improve their skills."
+    },
+    {
+      "title": "And the science Nobels for 2026 go to …",
+      "link": "https://www.snexplores.org/article/science-nobel-prizes-2026",
+      "published": "2026-10-12T10:30:00.000Z",
+      "snippet": "Top prizes went for an icy window into the cosmos, a light switch for the brain and solving the mystery of mirror image molecules.",
+      "summary": "The 2026 science Nobel prizes were awarded for an icy view of the universe, a brain light switch, and solving the mystery of mirror image molecules. These top prizes celebrated major breakthroughs in cosmology, neuroscience, and chemistry."
+    },
+    {
+      "title": "Scientists Say: Theropod",
+      "link": "https://www.snexplores.org/article/scientists-say-theropod-definition-pronunciation",
+      "published": "2026-10-12T10:30:00.000Z",
+      "snippet": "This group of dinosaurs once included Tyrannosaurus rex . Today, they include birds.",
+      "summary": "Theropods are a group of dinosaurs that once included the Tyrannosaurus rex. Today, this same group of animals includes birds."
+    },
+    {
+      "title": "Could Spider-Man really turn off his superpowers?",
+      "link": "https://www.snexplores.org/article/spider-man-rna-turn-off-superpowers",
+      "published": "2026-10-12T10:30:00.000Z",
+      "snippet": "In Spider-Man: Brand New Day, Peter Parker devises a superpower inhibitor based on real RNA therapies.",
+      "summary": "In the comic Spider-Man: Brand New Day, Peter Parker creates a superpower inhibitor that is based on real RNA therapies. This fictional device allows him to potentially turn off his superpowers."
     },
     {
       "title": "And the science Nobels for 2026 go to …",
@@ -57,34 +85,6 @@
       "published": "2026-10-12T10:30:00.000Z",
       "snippet": "In Spider-Man: Brand New Day, Peter Parker devises a superpower inhibitor based on real RNA therapies.",
       "summary": "In the comic Spider-Man: Brand New Day, Peter Parker creates a superpower inhibitor that is based on real RNA therapies. This fictional device allows him to potentially turn off his superpowers."
-    },
-    {
-      "title": "And the science Nobels for 2026 go to …",
-      "link": "https://www.snexplores.org/article/science-nobel-prizes-2026",
-      "published": "2026-10-12T10:30:00.000Z",
-      "snippet": "Top prizes went for an icy window into the cosmos, a light switch for the brain and solving the mystery of mirror image molecules.",
-      "summary": "Top science prizes for 2026 were awarded for discovering an icy window into the cosmos, creating a light switch for the brain, and solving the mystery of mirror image molecules. These top prizes celebrated breakthroughs in space, neuroscience, and chemistry."
-    },
-    {
-      "title": "Scientists Say: Theropod",
-      "link": "https://www.snexplores.org/article/scientists-say-theropod-definition-pronunciation",
-      "published": "2026-10-12T10:30:00.000Z",
-      "snippet": "This group of dinosaurs once included Tyrannosaurus rex . Today, they include birds.",
-      "summary": "Scientists say that the theropod group of dinosaurs once included the Tyrannosaurus rex. Today, this same group of dinosaurs includes modern birds."
-    },
-    {
-      "title": "Could Spider-Man really turn off his superpowers?",
-      "link": "https://www.snexplores.org/article/spider-man-rna-turn-off-superpowers",
-      "published": "2026-10-12T10:30:00.000Z",
-      "snippet": "In Spider-Man: Brand New Day, Peter Parker devises a superpower inhibitor based on real RNA therapies.",
-      "summary": "In Spider-Man: Brand New Day, Peter Parker creates a superpower inhibitor based on real RNA therapies. This device allows him to potentially turn off his superpowers."
-    },
-    {
-      "title": "And the science Nobels for 2026 go to …",
-      "link": "https://www.snexplores.org/article/science-nobel-prizes-2026",
-      "published": "2026-10-12T10:30:00.000Z",
-      "snippet": "Top prizes went for an icy window into the cosmos, a light switch for the brain and solving the mystery of mirror image molecules.",
-      "summary": "The 2026 science Nobel prizes were awarded for an icy window into the cosmos, a light switch for the brain, and solving the mystery of mirror image molecules. These top prizes celebrated three major scientific breakthroughs."
     }
   ]
 }
