@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-14T21:47:41.773Z",
+  "updatedAt": "2026-10-15T04:50:53.571Z",
   "articles": [
+    {
+      "title": "Bees may survive a swim by heading for the dark [COMIC]",
+      "link": "https://www.snexplores.org/article/bees-swim-toward-dark-comic",
+      "published": "2026-10-14T10:30:00.000Z",
+      "snippet": "Researchers recently learned that bees can swim. New findings show that bees paddle toward shade and dark to reach shore.",
+      "summary": "Researchers have discovered that bees can actually swim. When in the water, bees paddle toward shade and dark areas to help them reach the shore."
+    },
     {
       "title": "Bees may survive a swim by heading for the dark [COMIC]",
       "link": "https://www.snexplores.org/article/bees-swim-toward-dark-comic",
@@ -22,6 +29,13 @@
       "published": "2026-10-14T10:30:00.000Z",
       "snippet": "Researchers recently learned that bees can swim. New findings show that bees paddle toward shade and dark to reach shore.",
       "summary": "Researchers recently discovered that bees are able to swim. New findings show that they paddle toward shade and dark areas to reach the shore."
+    },
+    {
+      "title": "Is AI making us dumber? Depends how it’s used",
+      "link": "https://www.snexplores.org/article/ai-making-us-dumber-learn-lose-skills",
+      "published": "2026-10-13T10:30:00.000Z",
+      "snippet": "AI can weaken learning when it replaces effort. But tools that offer guidance rather than answers can help people hone their skills.",
+      "summary": "Artificial intelligence can make learning harder if it just gives you the answers instead of making you work. However, AI tools that provide guidance can actually help people improve their skills."
     },
     {
       "title": "Is AI making us dumber? Depends how it’s used",
@@ -70,21 +84,7 @@
       "link": "https://www.snexplores.org/article/science-nobel-prizes-2026",
       "published": "2026-10-12T10:30:00.000Z",
       "snippet": "Top prizes went for an icy window into the cosmos, a light switch for the brain and solving the mystery of mirror image molecules.",
-      "summary": "The 2026 science Nobel prizes were awarded for an icy window into the cosmos, a light switch for the brain, and solving the mystery of mirror image molecules. These top prizes celebrated three major scientific breakthroughs."
-    },
-    {
-      "title": "Scientists Say: Theropod",
-      "link": "https://www.snexplores.org/article/scientists-say-theropod-definition-pronunciation",
-      "published": "2026-10-12T10:30:00.000Z",
-      "snippet": "This group of dinosaurs once included Tyrannosaurus rex . Today, they include birds.",
-      "summary": "Scientists say that the group of dinosaurs called theropods once included the Tyrannosaurus rex. Today, this same group includes birds."
-    },
-    {
-      "title": "Could Spider-Man really turn off his superpowers?",
-      "link": "https://www.snexplores.org/article/spider-man-rna-turn-off-superpowers",
-      "published": "2026-10-12T10:30:00.000Z",
-      "snippet": "In Spider-Man: Brand New Day, Peter Parker devises a superpower inhibitor based on real RNA therapies.",
-      "summary": "In the story Spider-Man: Brand New Day, Peter Parker creates a tool to turn off his superpowers. This device is based on real RNA therapies."
+      "summary": "Top prizes in science for 2026 went for an icy window into the cosmos and a light switch for the brain. Another award was given for solving the mystery of mirror image molecules."
     }
   ]
 }
