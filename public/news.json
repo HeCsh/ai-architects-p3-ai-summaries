@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-15T21:30:23.504Z",
+  "updatedAt": "2026-10-16T04:40:57.451Z",
   "articles": [
+    {
+      "title": "Calls of the wild offer sound guidance for protecting animals",
+      "link": "https://www.snexplores.org/article/bioacoustic-animal-sounds-conservation",
+      "published": "2026-10-15T10:30:00.000Z",
+      "snippet": "The wild world is full of roars, whoops and songs. Scientists are using such sounds to guide efforts to help save species at threat of extinction.",
+      "summary": "Scientists are using animal roars, whoops, and songs to help guide efforts to save species that are at risk of extinction. By listening to these calls from the wild, researchers can better protect endangered animals."
+    },
     {
       "title": "Calls of the wild offer sound guidance for protecting animals",
       "link": "https://www.snexplores.org/article/bioacoustic-animal-sounds-conservation",
@@ -22,6 +29,13 @@
       "published": "2026-10-15T10:30:00.000Z",
       "snippet": "The wild world is full of roars, whoops and songs. Scientists are using such sounds to guide efforts to help save species at threat of extinction.",
       "summary": "Scientists are using animal sounds like roars and songs to help protect species that are at risk of extinction. By listening to these calls, researchers can guide their efforts to save endangered wildlife."
+    },
+    {
+      "title": "Bees may survive a swim by heading for the dark [COMIC]",
+      "link": "https://www.snexplores.org/article/bees-swim-toward-dark-comic",
+      "published": "2026-10-14T10:30:00.000Z",
+      "snippet": "Researchers recently learned that bees can swim. New findings show that bees paddle toward shade and dark to reach shore.",
+      "summary": "Researchers recently discovered that bees are able to swim. New findings show that they paddle toward shade and dark areas to reach the shore."
     },
     {
       "title": "Bees may survive a swim by heading for the dark [COMIC]",
@@ -71,20 +85,6 @@
       "published": "2026-10-14T10:30:00.000Z",
       "snippet": "Researchers recently learned that bees can swim. New findings show that bees paddle toward shade and dark to reach shore.",
       "summary": "Researchers recently discovered that bees are able to swim. New findings show that they paddle toward shade and dark areas to reach the shore."
-    },
-    {
-      "title": "Is AI making us dumber? Depends how it’s used",
-      "link": "https://www.snexplores.org/article/ai-making-us-dumber-learn-lose-skills",
-      "published": "2026-10-13T10:30:00.000Z",
-      "snippet": "AI can weaken learning when it replaces effort. But tools that offer guidance rather than answers can help people hone their skills.",
-      "summary": "Using artificial intelligence to replace effort can weaken learning, but tools that provide guidance instead of direct answers can help people improve their skills."
-    },
-    {
-      "title": "Is AI making us dumber? Depends how it’s used",
-      "link": "https://www.snexplores.org/article/ai-making-us-dumber-learn-lose-skills",
-      "published": "2026-10-13T10:30:00.000Z",
-      "snippet": "AI can weaken learning when it replaces effort. But tools that offer guidance rather than answers can help people hone their skills.",
-      "summary": "Artificial intelligence can weaken learning when it replaces effort, but it can also help people build skills if it offers guidance instead of direct answers."
     }
   ]
 }
