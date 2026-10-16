@@ -1,12 +1,26 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-16T11:35:11.629Z",
+  "updatedAt": "2026-10-16T16:46:17.134Z",
   "articles": [
     {
       "title": "In the heat, this Death Valley shrub air conditions its leaves",
       "link": "https://www.snexplores.org/article/extreme-heat-plant-cools-leaves",
       "published": "2026-10-16T10:30:00.000Z",
       "snippet": "Leaves of the Arizona honeysweet can turn on evaporative cooling to keep the plant up to 13 degrees C (23 degrees F) cooler than the surrounding air.",
+      "summary": null
+    },
+    {
+      "title": "In the heat, this Death Valley shrub air conditions its leaves",
+      "link": "https://www.snexplores.org/article/extreme-heat-plant-cools-leaves",
+      "published": "2026-10-16T10:30:00.000Z",
+      "snippet": "Leaves of the Arizona honeysweet can turn on evaporative cooling to keep the plant up to 13 degrees C (23 degrees F) cooler than the surrounding air.",
+      "summary": null
+    },
+    {
+      "title": "Calls of the wild offer sound guidance for protecting animals",
+      "link": "https://www.snexplores.org/article/bioacoustic-animal-sounds-conservation",
+      "published": "2026-10-15T10:30:00.000Z",
+      "snippet": "The wild world is full of roars, whoops and songs. Scientists are using such sounds to guide efforts to help save species at threat of extinction.",
       "summary": null
     },
     {
@@ -71,20 +85,6 @@
       "published": "2026-10-14T10:30:00.000Z",
       "snippet": "Researchers recently learned that bees can swim. New findings show that bees paddle toward shade and dark to reach shore.",
       "summary": "Researchers recently discovered that bees are able to swim. New findings show that they paddle toward shade and dark areas to reach the shore."
-    },
-    {
-      "title": "Bees may survive a swim by heading for the dark [COMIC]",
-      "link": "https://www.snexplores.org/article/bees-swim-toward-dark-comic",
-      "published": "2026-10-14T10:30:00.000Z",
-      "snippet": "Researchers recently learned that bees can swim. New findings show that bees paddle toward shade and dark to reach shore.",
-      "summary": "Researchers recently discovered that bees can swim by paddling in the water. They head toward shade and dark areas to successfully reach the shore."
-    },
-    {
-      "title": "Bees may survive a swim by heading for the dark [COMIC]",
-      "link": "https://www.snexplores.org/article/bees-swim-toward-dark-comic",
-      "published": "2026-10-14T10:30:00.000Z",
-      "snippet": "Researchers recently learned that bees can swim. New findings show that bees paddle toward shade and dark to reach shore.",
-      "summary": "Researchers have discovered that bees can actually swim. When in the water, bees paddle toward shade and dark areas to help them reach the shore."
     }
   ]
 }
