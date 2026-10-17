@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-17T10:54:06.054Z",
+  "updatedAt": "2026-10-17T15:42:13.511Z",
   "articles": [
+    {
+      "title": "In the heat, this Death Valley shrub air conditions its leaves",
+      "link": "https://www.snexplores.org/article/extreme-heat-plant-cools-leaves",
+      "published": "2026-10-16T10:30:00.000Z",
+      "snippet": "Leaves of the Arizona honeysweet can turn on evaporative cooling to keep the plant up to 13 degrees C (23 degrees F) cooler than the surrounding air.",
+      "summary": "The Arizona honeysweet shrub uses evaporative cooling through its leaves to beat the desert heat. This process helps keep the plant significantly cooler than the surrounding air in Death Valley."
+    },
     {
       "title": "In the heat, this Death Valley shrub air conditions its leaves",
       "link": "https://www.snexplores.org/article/extreme-heat-plant-cools-leaves",
@@ -42,6 +49,13 @@
       "link": "https://www.snexplores.org/article/bioacoustic-animal-sounds-conservation",
       "published": "2026-10-15T10:30:00.000Z",
       "snippet": "The wild world is full of roars, whoops and songs. Scientists are using such sounds to guide efforts to help save species at threat of extinction.",
+      "summary": "Scientists are using animal sounds like roars and songs to help protect species that are in danger of dying out. These calls from the wild are being used to guide efforts to save these threatened animals."
+    },
+    {
+      "title": "Calls of the wild offer sound guidance for protecting animals",
+      "link": "https://www.snexplores.org/article/bioacoustic-animal-sounds-conservation",
+      "published": "2026-10-15T10:30:00.000Z",
+      "snippet": "The wild world is full of roars, whoops and songs. Scientists are using such sounds to guide efforts to help save species at threat of extinction.",
       "summary": "Scientists are using animal sounds like roars and songs to help guide efforts to save species from extinction. By listening to these calls of the wild, researchers can better protect animals that are at risk."
     },
     {
@@ -71,20 +85,6 @@
       "published": "2026-10-15T10:30:00.000Z",
       "snippet": "The wild world is full of roars, whoops and songs. Scientists are using such sounds to guide efforts to help save species at threat of extinction.",
       "summary": "Scientists are using animal sounds like roars and songs to help guide efforts to save species from extinction. By listening to these calls from the wild, researchers can better protect animals that are at threat."
-    },
-    {
-      "title": "Calls of the wild offer sound guidance for protecting animals",
-      "link": "https://www.snexplores.org/article/bioacoustic-animal-sounds-conservation",
-      "published": "2026-10-15T10:30:00.000Z",
-      "snippet": "The wild world is full of roars, whoops and songs. Scientists are using such sounds to guide efforts to help save species at threat of extinction.",
-      "summary": "Scientists are using animal roars, whoops, and songs to help guide efforts to save species that are at risk of extinction. By listening to these calls from the wild, researchers can better protect endangered animals."
-    },
-    {
-      "title": "Calls of the wild offer sound guidance for protecting animals",
-      "link": "https://www.snexplores.org/article/bioacoustic-animal-sounds-conservation",
-      "published": "2026-10-15T10:30:00.000Z",
-      "snippet": "The wild world is full of roars, whoops and songs. Scientists are using such sounds to guide efforts to help save species at threat of extinction.",
-      "summary": "Scientists are using animal sounds like roars and songs to help protect species that are at risk of dying out. These calls from the wild provide important guidance for conservation efforts."
     }
   ]
 }
