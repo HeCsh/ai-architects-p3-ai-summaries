@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-18T23:20:36.675Z",
+  "updatedAt": "2026-10-19T04:51:26.381Z",
   "articles": [
+    {
+      "title": "In the heat, this Death Valley shrub air conditions its leaves",
+      "link": "https://www.snexplores.org/article/extreme-heat-plant-cools-leaves",
+      "published": "2026-10-16T10:30:00.000Z",
+      "snippet": "Leaves of the Arizona honeysweet can turn on evaporative cooling to keep the plant up to 13 degrees C (23 degrees F) cooler than the surrounding air.",
+      "summary": "The Arizona honeysweet shrub uses evaporative cooling in its leaves to survive extreme heat. This process keeps the plant significantly cooler than the air around it."
+    },
     {
       "title": "In the heat, this Death Valley shrub air conditions its leaves",
       "link": "https://www.snexplores.org/article/extreme-heat-plant-cools-leaves",
@@ -71,13 +78,6 @@
       "published": "2026-10-16T10:30:00.000Z",
       "snippet": "Leaves of the Arizona honeysweet can turn on evaporative cooling to keep the plant up to 13 degrees C (23 degrees F) cooler than the surrounding air.",
       "summary": "The Arizona honeysweet shrub uses evaporative cooling to air condition its leaves in the heat. This process keeps the plant up to 13 degrees Celsius cooler than the air around it."
-    },
-    {
-      "title": "In the heat, this Death Valley shrub air conditions its leaves",
-      "link": "https://www.snexplores.org/article/extreme-heat-plant-cools-leaves",
-      "published": "2026-10-16T10:30:00.000Z",
-      "snippet": "Leaves of the Arizona honeysweet can turn on evaporative cooling to keep the plant up to 13 degrees C (23 degrees F) cooler than the surrounding air.",
-      "summary": "The Arizona honeysweet shrub uses evaporative cooling to air condition its leaves. This process can keep the plant up to 13 degrees Celsius cooler than the surrounding air."
     },
     {
       "title": "In the heat, this Death Valley shrub air conditions its leaves",
