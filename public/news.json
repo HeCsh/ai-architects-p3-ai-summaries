@@ -1,7 +1,21 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-20T19:23:09.880Z",
+  "updatedAt": "2026-10-20T23:57:36.314Z",
   "articles": [
+    {
+      "title": "Sliding down surfaces can make rainwater corrosive",
+      "link": "https://www.snexplores.org/article/sliding-rainwater-charge-corrosive",
+      "published": "2026-10-20T10:30:00.000Z",
+      "snippet": "Water droplets can take on an electric charge when they slide across objects. Charged rain may start to eat through bridges, cars and more, new data show.",
+      "summary": "Raindrops can get an electric charge when they slide across objects. This charged rain might eventually eat through things like cars and bridges."
+    },
+    {
+      "title": "Let’s learn about hydrogels",
+      "link": "https://www.snexplores.org/article/lets-learn-about-hydrogels",
+      "published": "2026-10-20T10:30:00.000Z",
+      "snippet": "These polymer-based materials can sop up a lot of water — making them useful for a wide array of tasks.",
+      "summary": "Hydrogels are polymer-based materials that can absorb a large amount of water. This ability to soak up water makes them useful for many different tasks."
+    },
     {
       "title": "Sliding down surfaces can make rainwater corrosive",
       "link": "https://www.snexplores.org/article/sliding-rainwater-charge-corrosive",
@@ -35,6 +49,20 @@
       "link": "https://www.snexplores.org/article/missing-matter-clouds-outside-galaxies",
       "published": "2026-10-19T10:30:00.000Z",
       "snippet": "Dark matter isn’t the universe’s only “missing” matter. Distant bursts of radio waves have now turned up vast, faint gas clouds surrounding galaxies.",
+      "summary": "Scientists have found giant, faint gas clouds surrounding galaxies using distant bursts of radio waves. This discovery helps solve the mystery of the universe's missing ordinary matter."
+    },
+    {
+      "title": "Scientists Say: Blood Falls",
+      "link": "https://www.snexplores.org/article/scientists-say-blood-falls-definition-pronunciation",
+      "published": "2026-10-19T10:30:00.000Z",
+      "snippet": "This five-story-tall waterfall in Antarctica gets its blood-red color from the same reaction that creates rust.",
+      "summary": "A five-story-tall waterfall in Antarctica has a striking blood-red color. This unusual color is caused by the exact same chemical reaction that creates rust."
+    },
+    {
+      "title": "Newfound clouds of missing ‘ordinary’ matter sit outside galaxies",
+      "link": "https://www.snexplores.org/article/missing-matter-clouds-outside-galaxies",
+      "published": "2026-10-19T10:30:00.000Z",
+      "snippet": "Dark matter isn’t the universe’s only “missing” matter. Distant bursts of radio waves have now turned up vast, faint gas clouds surrounding galaxies.",
       "summary": "Scientists have discovered vast, faint gas clouds surrounding galaxies using distant bursts of radio waves. These newly found clouds contain some of the universe's missing ordinary matter."
     },
     {
@@ -57,34 +85,6 @@
       "published": "2026-10-19T10:30:00.000Z",
       "snippet": "This five-story-tall waterfall in Antarctica gets its blood-red color from the same reaction that creates rust.",
       "summary": "Blood Falls is a five-story-tall waterfall in Antarctica that gets its blood-red color from the same reaction that creates rust."
-    },
-    {
-      "title": "Newfound clouds of missing ‘ordinary’ matter sit outside galaxies",
-      "link": "https://www.snexplores.org/article/missing-matter-clouds-outside-galaxies",
-      "published": "2026-10-19T10:30:00.000Z",
-      "snippet": "Dark matter isn’t the universe’s only “missing” matter. Distant bursts of radio waves have now turned up vast, faint gas clouds surrounding galaxies.",
-      "summary": "Scientists have discovered huge, faint gas clouds surrounding distant galaxies using bursts of radio waves. These newly found clouds help solve the mystery of the universe's missing ordinary matter."
-    },
-    {
-      "title": "Scientists Say: Blood Falls",
-      "link": "https://www.snexplores.org/article/scientists-say-blood-falls-definition-pronunciation",
-      "published": "2026-10-19T10:30:00.000Z",
-      "snippet": "This five-story-tall waterfall in Antarctica gets its blood-red color from the same reaction that creates rust.",
-      "summary": "A tall waterfall in Antarctica has a striking blood-red color. This red color is caused by the same chemical reaction that makes rust."
-    },
-    {
-      "title": "Newfound clouds of missing ‘ordinary’ matter sit outside galaxies",
-      "link": "https://www.snexplores.org/article/missing-matter-clouds-outside-galaxies",
-      "published": "2026-10-19T10:30:00.000Z",
-      "snippet": "Dark matter isn’t the universe’s only “missing” matter. Distant bursts of radio waves have now turned up vast, faint gas clouds surrounding galaxies.",
-      "summary": "Scientists have found huge, faint gas clouds surrounding galaxies using distant bursts of radio waves. This discovery helps account for some of the universe's missing ordinary matter."
-    },
-    {
-      "title": "Scientists Say: Blood Falls",
-      "link": "https://www.snexplores.org/article/scientists-say-blood-falls-definition-pronunciation",
-      "published": "2026-10-19T10:30:00.000Z",
-      "snippet": "This five-story-tall waterfall in Antarctica gets its blood-red color from the same reaction that creates rust.",
-      "summary": "A tall waterfall in Antarctica has a striking blood-red color. This red color is caused by the same chemical reaction that makes rust."
     }
   ]
 }
