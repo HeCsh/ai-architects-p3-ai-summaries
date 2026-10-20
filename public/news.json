@@ -1,7 +1,35 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-20T08:40:56.762Z",
+  "updatedAt": "2026-10-20T14:23:17.936Z",
   "articles": [
+    {
+      "title": "Sliding down surfaces can make rainwater corrosive",
+      "link": "https://www.snexplores.org/article/sliding-rainwater-charge-corrosive",
+      "published": "2026-10-20T10:30:00.000Z",
+      "snippet": "Water droplets can take on an electric charge when they slide across objects. Charged rain may start to eat through bridges, cars and more, new data show.",
+      "summary": "Water droplets can get an electric charge when they slide across objects. This charged rain may start to eat through cars and bridges."
+    },
+    {
+      "title": "Let’s learn about hydrogels",
+      "link": "https://www.snexplores.org/article/lets-learn-about-hydrogels",
+      "published": "2026-10-20T10:30:00.000Z",
+      "snippet": "These polymer-based materials can sop up a lot of water — making them useful for a wide array of tasks.",
+      "summary": "Hydrogels are polymer-based materials that can absorb a large amount of water. This makes them useful for many different tasks."
+    },
+    {
+      "title": "Newfound clouds of missing ‘ordinary’ matter sit outside galaxies",
+      "link": "https://www.snexplores.org/article/missing-matter-clouds-outside-galaxies",
+      "published": "2026-10-19T10:30:00.000Z",
+      "snippet": "Dark matter isn’t the universe’s only “missing” matter. Distant bursts of radio waves have now turned up vast, faint gas clouds surrounding galaxies.",
+      "summary": null
+    },
+    {
+      "title": "Scientists Say: Blood Falls",
+      "link": "https://www.snexplores.org/article/scientists-say-blood-falls-definition-pronunciation",
+      "published": "2026-10-19T10:30:00.000Z",
+      "snippet": "This five-story-tall waterfall in Antarctica gets its blood-red color from the same reaction that creates rust.",
+      "summary": "Blood Falls is a five-story-tall waterfall in Antarctica that gets its blood-red color from the same reaction that creates rust."
+    },
     {
       "title": "Newfound clouds of missing ‘ordinary’ matter sit outside galaxies",
       "link": "https://www.snexplores.org/article/missing-matter-clouds-outside-galaxies",
@@ -57,34 +85,6 @@
       "published": "2026-10-19T10:30:00.000Z",
       "snippet": "This five-story-tall waterfall in Antarctica gets its blood-red color from the same reaction that creates rust.",
       "summary": "Antarctica has a five-story-tall waterfall that gets its blood-red color from the same reaction that creates rust."
-    },
-    {
-      "title": "In the heat, this Death Valley shrub air conditions its leaves",
-      "link": "https://www.snexplores.org/article/extreme-heat-plant-cools-leaves",
-      "published": "2026-10-16T10:30:00.000Z",
-      "snippet": "Leaves of the Arizona honeysweet can turn on evaporative cooling to keep the plant up to 13 degrees C (23 degrees F) cooler than the surrounding air.",
-      "summary": "The Arizona honeysweet shrub uses evaporative cooling to air condition its own leaves. This process can keep the plant up to 13 degrees Celsius cooler than the air around it."
-    },
-    {
-      "title": "In the heat, this Death Valley shrub air conditions its leaves",
-      "link": "https://www.snexplores.org/article/extreme-heat-plant-cools-leaves",
-      "published": "2026-10-16T10:30:00.000Z",
-      "snippet": "Leaves of the Arizona honeysweet can turn on evaporative cooling to keep the plant up to 13 degrees C (23 degrees F) cooler than the surrounding air.",
-      "summary": "The Arizona honeysweet shrub uses evaporative cooling to air condition its leaves. This process can keep the plant up to 13 degrees Celsius cooler than the surrounding air."
-    },
-    {
-      "title": "In the heat, this Death Valley shrub air conditions its leaves",
-      "link": "https://www.snexplores.org/article/extreme-heat-plant-cools-leaves",
-      "published": "2026-10-16T10:30:00.000Z",
-      "snippet": "Leaves of the Arizona honeysweet can turn on evaporative cooling to keep the plant up to 13 degrees C (23 degrees F) cooler than the surrounding air.",
-      "summary": "The Arizona honeysweet shrub uses evaporative cooling to air condition its leaves. This process can keep the plant up to 13 degrees Celsius cooler than the surrounding air."
-    },
-    {
-      "title": "In the heat, this Death Valley shrub air conditions its leaves",
-      "link": "https://www.snexplores.org/article/extreme-heat-plant-cools-leaves",
-      "published": "2026-10-16T10:30:00.000Z",
-      "snippet": "Leaves of the Arizona honeysweet can turn on evaporative cooling to keep the plant up to 13 degrees C (23 degrees F) cooler than the surrounding air.",
-      "summary": "The Arizona honeysweet shrub uses evaporative cooling to keep its leaves much cooler than the surrounding air in Death Valley. This process helps the plant's leaves stay up to 13 degrees Celsius cooler than the heat outside."
     }
   ]
 }
