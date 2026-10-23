@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-23T17:16:19.529Z",
+  "updatedAt": "2026-10-23T21:30:10.290Z",
   "articles": [
+    {
+      "title": "Your skin’s chemistry may affect which mosquitoes you attract",
+      "link": "https://www.snexplores.org/article/skin-chemistry-attract-mosquito-bites",
+      "published": "2026-10-23T10:30:00.000Z",
+      "snippet": "Three species picked their favorite human targets based on skin odor and bacteria. The findings could lead to the design of better repellents.",
+      "summary": "Scientists found that three species of mosquitoes choose their favorite humans based on skin odor and bacteria. This discovery could help experts design better insect repellents."
+    },
     {
       "title": "Your skin’s chemistry may affect which mosquitoes you attract",
       "link": "https://www.snexplores.org/article/skin-chemistry-attract-mosquito-bites",
@@ -15,6 +22,13 @@
       "published": "2026-10-23T10:30:00.000Z",
       "snippet": "Three species picked their favorite human targets based on skin odor and bacteria. The findings could lead to the design of better repellents.",
       "summary": "Researchers found that three mosquito species choose their favorite humans based on skin odor and bacteria. This discovery could help scientists design better bug repellents."
+    },
+    {
+      "title": "Circular cities go ‘green’ by reusing things over and over again",
+      "link": "https://www.snexplores.org/article/circular-cities-go-green-reuse-recycle",
+      "published": "2026-10-22T10:30:00.000Z",
+      "snippet": "To cut their wastes to nearly zero, circular cities are launching projects to repair, reuse and recycle virtually everything.",
+      "summary": "Circular cities are launching projects to repair, reuse, and recycle almost everything. Their goal is to cut their waste down to nearly zero."
     },
     {
       "title": "Circular cities go ‘green’ by reusing things over and over again",
@@ -71,20 +85,6 @@
       "published": "2026-10-21T10:30:00.000Z",
       "snippet": "A mathematical statement, it tells us two expressions are in balance, or equal. So it can help us calculate unknowns from what we already know.",
       "summary": "An equation is a mathematical statement that shows two expressions are equal. It helps us use what we already know to figure out unknowns."
-    },
-    {
-      "title": "Explainer: What is an equation?",
-      "link": "https://www.snexplores.org/article/what-is-math-equation",
-      "published": "2026-10-21T10:30:00.000Z",
-      "snippet": "A mathematical statement, it tells us two expressions are in balance, or equal. So it can help us calculate unknowns from what we already know.",
-      "summary": "An equation is a mathematical statement that shows two expressions are equal. It helps us use what we already know to figure out unknown values."
-    },
-    {
-      "title": "Explainer: What is an equation?",
-      "link": "https://www.snexplores.org/article/what-is-math-equation",
-      "published": "2026-10-21T10:30:00.000Z",
-      "snippet": "A mathematical statement, it tells us two expressions are in balance, or equal. So it can help us calculate unknowns from what we already know.",
-      "summary": "An equation is a mathematical statement that shows two expressions are equal. It helps us calculate unknown numbers by using what we already know."
     }
   ]
 }
