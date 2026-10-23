@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-22T21:44:04.032Z",
+  "updatedAt": "2026-10-23T05:01:15.479Z",
   "articles": [
+    {
+      "title": "Circular cities go ‘green’ by reusing things over and over again",
+      "link": "https://www.snexplores.org/article/circular-cities-go-green-reuse-recycle",
+      "published": "2026-10-22T10:30:00.000Z",
+      "snippet": "To cut their wastes to nearly zero, circular cities are launching projects to repair, reuse and recycle virtually everything.",
+      "summary": "Circular cities are launching projects to repair, reuse, and recycle almost everything. Their goal is to cut their waste down to nearly zero."
+    },
     {
       "title": "Circular cities go ‘green’ by reusing things over and over again",
       "link": "https://www.snexplores.org/article/circular-cities-go-green-reuse-recycle",
@@ -22,6 +29,13 @@
       "published": "2026-10-22T10:30:00.000Z",
       "snippet": "To cut their wastes to nearly zero, circular cities are launching projects to repair, reuse and recycle virtually everything.",
       "summary": "Circular cities are launching projects to repair, reuse, and recycle almost everything. Their goal is to cut their waste down to nearly zero."
+    },
+    {
+      "title": "Explainer: What is an equation?",
+      "link": "https://www.snexplores.org/article/what-is-math-equation",
+      "published": "2026-10-21T10:30:00.000Z",
+      "snippet": "A mathematical statement, it tells us two expressions are in balance, or equal. So it can help us calculate unknowns from what we already know.",
+      "summary": "An equation is a mathematical statement that shows two expressions are equal. It helps us use what we already know to figure out unknown values."
     },
     {
       "title": "Explainer: What is an equation?",
@@ -70,21 +84,7 @@
       "link": "https://www.snexplores.org/article/sliding-rainwater-charge-corrosive",
       "published": "2026-10-20T10:30:00.000Z",
       "snippet": "Water droplets can take on an electric charge when they slide across objects. Charged rain may start to eat through bridges, cars and more, new data show.",
-      "summary": "Raindrops can pick up an electric charge when they slide across objects. This charged rain could potentially start to eat through things like bridges and cars."
-    },
-    {
-      "title": "Let’s learn about hydrogels",
-      "link": "https://www.snexplores.org/article/lets-learn-about-hydrogels",
-      "published": "2026-10-20T10:30:00.000Z",
-      "snippet": "These polymer-based materials can sop up a lot of water — making them useful for a wide array of tasks.",
-      "summary": "Hydrogels are polymer-based materials that can absorb a large amount of water. This ability to soak up water makes them useful for many different tasks."
-    },
-    {
-      "title": "Sliding down surfaces can make rainwater corrosive",
-      "link": "https://www.snexplores.org/article/sliding-rainwater-charge-corrosive",
-      "published": "2026-10-20T10:30:00.000Z",
-      "snippet": "Water droplets can take on an electric charge when they slide across objects. Charged rain may start to eat through bridges, cars and more, new data show.",
-      "summary": "Raindrops can get an electric charge when they slide across objects. This charged rain might eventually damage bridges, cars, and other things."
+      "summary": "Raindrops can pick up an electric charge when they slide down objects. This charged rain could potentially damage things like bridges and cars."
     }
   ]
 }
