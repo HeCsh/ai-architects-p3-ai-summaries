@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-24T16:03:33.821Z",
+  "updatedAt": "2026-10-24T20:57:29.574Z",
   "articles": [
+    {
+      "title": "Your skin’s chemistry may affect which mosquitoes you attract",
+      "link": "https://www.snexplores.org/article/skin-chemistry-attract-mosquito-bites",
+      "published": "2026-10-23T10:30:00.000Z",
+      "snippet": "Three species picked their favorite human targets based on skin odor and bacteria. The findings could lead to the design of better repellents.",
+      "summary": "Scientists discovered that three mosquito species choose their favorite human targets based on skin odor and bacteria. These new findings could help researchers design better insect repellents."
+    },
     {
       "title": "Your skin’s chemistry may affect which mosquitoes you attract",
       "link": "https://www.snexplores.org/article/skin-chemistry-attract-mosquito-bites",
@@ -49,6 +56,13 @@
       "link": "https://www.snexplores.org/article/circular-cities-go-green-reuse-recycle",
       "published": "2026-10-22T10:30:00.000Z",
       "snippet": "To cut their wastes to nearly zero, circular cities are launching projects to repair, reuse and recycle virtually everything.",
+      "summary": "Circular cities are launching projects to repair, reuse, and recycle almost everything to cut their waste to nearly zero. This helps them go green by reusing things over and over again."
+    },
+    {
+      "title": "Circular cities go ‘green’ by reusing things over and over again",
+      "link": "https://www.snexplores.org/article/circular-cities-go-green-reuse-recycle",
+      "published": "2026-10-22T10:30:00.000Z",
+      "snippet": "To cut their wastes to nearly zero, circular cities are launching projects to repair, reuse and recycle virtually everything.",
       "summary": "Circular cities are launching projects to repair, reuse, and recycle almost everything to cut their waste to nearly zero. By reusing things over and over again, these cities are able to go green."
     },
     {
@@ -71,20 +85,6 @@
       "published": "2026-10-22T10:30:00.000Z",
       "snippet": "To cut their wastes to nearly zero, circular cities are launching projects to repair, reuse and recycle virtually everything.",
       "summary": "Circular cities are launching projects to repair, reuse, and recycle almost everything. Their goal is to cut their waste down to nearly zero."
-    },
-    {
-      "title": "Circular cities go ‘green’ by reusing things over and over again",
-      "link": "https://www.snexplores.org/article/circular-cities-go-green-reuse-recycle",
-      "published": "2026-10-22T10:30:00.000Z",
-      "snippet": "To cut their wastes to nearly zero, circular cities are launching projects to repair, reuse and recycle virtually everything.",
-      "summary": "Circular cities are launching projects to repair, reuse, and recycle almost everything to cut their waste to nearly zero. By reusing things over and over again, these cities are going green."
-    },
-    {
-      "title": "Circular cities go ‘green’ by reusing things over and over again",
-      "link": "https://www.snexplores.org/article/circular-cities-go-green-reuse-recycle",
-      "published": "2026-10-22T10:30:00.000Z",
-      "snippet": "To cut their wastes to nearly zero, circular cities are launching projects to repair, reuse and recycle virtually everything.",
-      "summary": "Circular cities are launching projects to repair, reuse, and recycle almost everything to cut their waste down to nearly zero. By reusing things over and over again, these cities are able to go green."
     }
   ]
 }
