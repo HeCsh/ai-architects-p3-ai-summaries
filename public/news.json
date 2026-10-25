@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-25T16:32:13.350Z",
+  "updatedAt": "2026-10-25T20:57:33.646Z",
   "articles": [
+    {
+      "title": "Your skin’s chemistry may affect which mosquitoes you attract",
+      "link": "https://www.snexplores.org/article/skin-chemistry-attract-mosquito-bites",
+      "published": "2026-10-23T10:30:00.000Z",
+      "snippet": "Three species picked their favorite human targets based on skin odor and bacteria. The findings could lead to the design of better repellents.",
+      "summary": "Three mosquito species choose their favorite humans based on skin odor and bacteria. These findings could help scientists design better insect repellents."
+    },
     {
       "title": "Your skin’s chemistry may affect which mosquitoes you attract",
       "link": "https://www.snexplores.org/article/skin-chemistry-attract-mosquito-bites",
@@ -78,13 +85,6 @@
       "published": "2026-10-23T10:30:00.000Z",
       "snippet": "Three species picked their favorite human targets based on skin odor and bacteria. The findings could lead to the design of better repellents.",
       "summary": "Researchers found that three mosquito species choose their favorite humans based on skin odor and bacteria. This discovery could help scientists design better bug repellents."
-    },
-    {
-      "title": "Circular cities go ‘green’ by reusing things over and over again",
-      "link": "https://www.snexplores.org/article/circular-cities-go-green-reuse-recycle",
-      "published": "2026-10-22T10:30:00.000Z",
-      "snippet": "To cut their wastes to nearly zero, circular cities are launching projects to repair, reuse and recycle virtually everything.",
-      "summary": "Circular cities are launching projects to repair, reuse, and recycle almost everything. Their goal is to cut their waste down to nearly zero."
     }
   ]
 }
