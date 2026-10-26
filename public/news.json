@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-25T23:19:56.823Z",
+  "updatedAt": "2026-10-26T04:57:15.676Z",
   "articles": [
+    {
+      "title": "Your skin’s chemistry may affect which mosquitoes you attract",
+      "link": "https://www.snexplores.org/article/skin-chemistry-attract-mosquito-bites",
+      "published": "2026-10-23T10:30:00.000Z",
+      "snippet": "Three species picked their favorite human targets based on skin odor and bacteria. The findings could lead to the design of better repellents.",
+      "summary": "Three mosquito species choose their favorite humans based on skin odor and bacteria. These findings could help scientists design better insect repellents."
+    },
     {
       "title": "Your skin’s chemistry may affect which mosquitoes you attract",
       "link": "https://www.snexplores.org/article/skin-chemistry-attract-mosquito-bites",
@@ -78,13 +85,6 @@
       "published": "2026-10-23T10:30:00.000Z",
       "snippet": "Three species picked their favorite human targets based on skin odor and bacteria. The findings could lead to the design of better repellents.",
       "summary": "Scientists found that three species of mosquitoes choose their favorite humans based on skin odor and bacteria. This discovery could help experts design better insect repellents."
-    },
-    {
-      "title": "Your skin’s chemistry may affect which mosquitoes you attract",
-      "link": "https://www.snexplores.org/article/skin-chemistry-attract-mosquito-bites",
-      "published": "2026-10-23T10:30:00.000Z",
-      "snippet": "Three species picked their favorite human targets based on skin odor and bacteria. The findings could lead to the design of better repellents.",
-      "summary": "Three mosquito species choose their favorite humans based on skin odor and bacteria. These findings could help scientists design better insect repellents."
     }
   ]
 }
