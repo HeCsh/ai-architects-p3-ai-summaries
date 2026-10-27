@@ -1,7 +1,35 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-27T09:08:32.098Z",
+  "updatedAt": "2026-10-27T15:26:12.961Z",
   "articles": [
+    {
+      "title": "Farm plants may help fight infections, teen finds",
+      "link": "https://www.snexplores.org/article/farm-plants-fight-bacteria-jic",
+      "published": "2026-10-27T10:30:00.000Z",
+      "snippet": "This middle-school student’s homegrown solutions may point to new ways to take down bacteria.",
+      "summary": "A middle-school student found that homegrown farm plants might help fight bacterial infections. These solutions could point to new ways to take down bacteria."
+    },
+    {
+      "title": "This ‘anti-vampiric’ grave was double guarded against the undead",
+      "link": "https://www.snexplores.org/article/anti-vampire-grave-undead-burial",
+      "published": "2026-10-27T10:30:00.000Z",
+      "snippet": "A sickle across the throat and a padlock on her toe were meant to keep a 17th-century teen girl from resurrecting from the grave.",
+      "summary": "A 17th-century teenage girl was buried with a sickle across her throat and a padlock on her toe to stop her from coming back from the dead. These unusual items were used as double protection against the undead."
+    },
+    {
+      "title": "Feeling nervous? Work that system to calm it down",
+      "link": "https://www.snexplores.org/article/regulate-nervous-system-calm-stress",
+      "published": "2026-10-26T10:30:00.000Z",
+      "snippet": "Scientists are exploring new ways to regain control of stressed-out nervous systems, including humming, tapping on the skin and cooling the face.",
+      "summary": "Scientists are exploring new ways to calm stressed-out nervous systems, such as humming, tapping on the skin, and cooling the face. These methods help people regain control of their bodies when they feel nervous."
+    },
+    {
+      "title": "Scientists Say: Sanguivore",
+      "link": "https://www.snexplores.org/article/scientists-say-sanguivore-definition-pronunciation",
+      "published": "2026-10-26T10:30:00.000Z",
+      "snippet": "Blood-drinkers evolved tricks for making use of this widespread but tricky-to-digest food source.",
+      "summary": "Blood-drinkers evolved special tricks to help them digest this tricky food source. Scientists study how these animals make use of blood."
+    },
     {
       "title": "Feeling nervous? Work that system to calm it down",
       "link": "https://www.snexplores.org/article/regulate-nervous-system-calm-stress",
@@ -57,34 +85,6 @@
       "published": "2026-10-26T10:30:00.000Z",
       "snippet": "Blood-drinkers evolved tricks for making use of this widespread but tricky-to-digest food source.",
       "summary": "Blood-drinkers evolved special tricks to help them digest this tricky food source. Animals that drink blood use these adaptations to make use of it."
-    },
-    {
-      "title": "Your skin’s chemistry may affect which mosquitoes you attract",
-      "link": "https://www.snexplores.org/article/skin-chemistry-attract-mosquito-bites",
-      "published": "2026-10-23T10:30:00.000Z",
-      "snippet": "Three species picked their favorite human targets based on skin odor and bacteria. The findings could lead to the design of better repellents.",
-      "summary": "Scientists discovered that three mosquito species choose their favorite human targets based on skin odor and bacteria. These findings could help researchers design better mosquito repellents."
-    },
-    {
-      "title": "Your skin’s chemistry may affect which mosquitoes you attract",
-      "link": "https://www.snexplores.org/article/skin-chemistry-attract-mosquito-bites",
-      "published": "2026-10-23T10:30:00.000Z",
-      "snippet": "Three species picked their favorite human targets based on skin odor and bacteria. The findings could lead to the design of better repellents.",
-      "summary": "Three mosquito species choose their favorite humans based on skin odor and bacteria. These findings could help scientists design better insect repellents."
-    },
-    {
-      "title": "Your skin’s chemistry may affect which mosquitoes you attract",
-      "link": "https://www.snexplores.org/article/skin-chemistry-attract-mosquito-bites",
-      "published": "2026-10-23T10:30:00.000Z",
-      "snippet": "Three species picked their favorite human targets based on skin odor and bacteria. The findings could lead to the design of better repellents.",
-      "summary": "Three mosquito species choose their favorite human targets based on skin odor and bacteria. These findings could help scientists design better bug repellents."
-    },
-    {
-      "title": "Your skin’s chemistry may affect which mosquitoes you attract",
-      "link": "https://www.snexplores.org/article/skin-chemistry-attract-mosquito-bites",
-      "published": "2026-10-23T10:30:00.000Z",
-      "snippet": "Three species picked their favorite human targets based on skin odor and bacteria. The findings could lead to the design of better repellents.",
-      "summary": "Different species of mosquitoes choose their human targets based on skin odor and bacteria. These findings could help scientists design better bug repellents."
     }
   ]
 }
