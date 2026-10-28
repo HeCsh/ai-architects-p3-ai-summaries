@@ -1,7 +1,21 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-27T22:23:06.449Z",
+  "updatedAt": "2026-10-28T05:53:25.383Z",
   "articles": [
+    {
+      "title": "Farm plants may help fight infections, teen finds",
+      "link": "https://www.snexplores.org/article/farm-plants-fight-bacteria-jic",
+      "published": "2026-10-27T10:30:00.000Z",
+      "snippet": "This middle-school student’s homegrown solutions may point to new ways to take down bacteria.",
+      "summary": "A middle-school student found that homegrown farm plants might help fight bacterial infections. These solutions could point to exciting new ways to take down harmful bacteria."
+    },
+    {
+      "title": "This ‘anti-vampiric’ grave was double guarded against the undead",
+      "link": "https://www.snexplores.org/article/anti-vampire-grave-undead-burial",
+      "published": "2026-10-27T10:30:00.000Z",
+      "snippet": "A sickle across the throat and a padlock on her toe were meant to keep a 17th-century teen girl from resurrecting from the grave.",
+      "summary": "Archaeologists found a 17th-century teen's grave with a sickle across her throat and a padlock on her toe. These strange items were meant to keep her from resurrecting from the dead."
+    },
     {
       "title": "Farm plants may help fight infections, teen finds",
       "link": "https://www.snexplores.org/article/farm-plants-fight-bacteria-jic",
@@ -42,6 +56,20 @@
       "link": "https://www.snexplores.org/article/scientists-say-sanguivore-definition-pronunciation",
       "published": "2026-10-26T10:30:00.000Z",
       "snippet": "Blood-drinkers evolved tricks for making use of this widespread but tricky-to-digest food source.",
+      "summary": "Blood-drinkers evolved special tricks so they could use blood as food. Blood is a widespread food source that is tricky to digest."
+    },
+    {
+      "title": "Feeling nervous? Work that system to calm it down",
+      "link": "https://www.snexplores.org/article/regulate-nervous-system-calm-stress",
+      "published": "2026-10-26T10:30:00.000Z",
+      "snippet": "Scientists are exploring new ways to regain control of stressed-out nervous systems, including humming, tapping on the skin and cooling the face.",
+      "summary": "Scientists are exploring new ways to regain control of stressed-out nervous systems. These methods include humming, tapping on the skin, and cooling the face."
+    },
+    {
+      "title": "Scientists Say: Sanguivore",
+      "link": "https://www.snexplores.org/article/scientists-say-sanguivore-definition-pronunciation",
+      "published": "2026-10-26T10:30:00.000Z",
+      "snippet": "Blood-drinkers evolved tricks for making use of this widespread but tricky-to-digest food source.",
       "summary": "Animals that drink blood evolved special tricks to digest this tricky food source. Scientists call these blood-drinking creatures sanguivores."
     },
     {
@@ -57,34 +85,6 @@
       "published": "2026-10-26T10:30:00.000Z",
       "snippet": "Blood-drinkers evolved tricks for making use of this widespread but tricky-to-digest food source.",
       "summary": "Blood-drinkers evolved special tricks to help them digest this tricky food source. Scientists study how these animals make use of blood."
-    },
-    {
-      "title": "Feeling nervous? Work that system to calm it down",
-      "link": "https://www.snexplores.org/article/regulate-nervous-system-calm-stress",
-      "published": "2026-10-26T10:30:00.000Z",
-      "snippet": "Scientists are exploring new ways to regain control of stressed-out nervous systems, including humming, tapping on the skin and cooling the face.",
-      "summary": "Scientists are exploring new ways to calm stressed-out nervous systems, such as humming, tapping on the skin, and cooling the face. These methods help people regain control of their bodies when they feel nervous."
-    },
-    {
-      "title": "Scientists Say: Sanguivore",
-      "link": "https://www.snexplores.org/article/scientists-say-sanguivore-definition-pronunciation",
-      "published": "2026-10-26T10:30:00.000Z",
-      "snippet": "Blood-drinkers evolved tricks for making use of this widespread but tricky-to-digest food source.",
-      "summary": "Animals that drink blood evolved special tricks to digest this tricky food source. These blood-drinking creatures make use of a widespread food source."
-    },
-    {
-      "title": "Feeling nervous? Work that system to calm it down",
-      "link": "https://www.snexplores.org/article/regulate-nervous-system-calm-stress",
-      "published": "2026-10-26T10:30:00.000Z",
-      "snippet": "Scientists are exploring new ways to regain control of stressed-out nervous systems, including humming, tapping on the skin and cooling the face.",
-      "summary": "Scientists are exploring new ways to calm stressed-out nervous systems, such as humming, tapping on the skin, and cooling the face. These methods help people regain control when they are feeling nervous."
-    },
-    {
-      "title": "Scientists Say: Sanguivore",
-      "link": "https://www.snexplores.org/article/scientists-say-sanguivore-definition-pronunciation",
-      "published": "2026-10-26T10:30:00.000Z",
-      "snippet": "Blood-drinkers evolved tricks for making use of this widespread but tricky-to-digest food source.",
-      "summary": "Blood-drinkers evolved special tricks to help them digest this tricky food source. Animals that drink blood use these adaptations to make use of it."
     }
   ]
 }
