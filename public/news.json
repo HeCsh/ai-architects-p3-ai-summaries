@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-29T01:02:10.851Z",
+  "updatedAt": "2026-10-29T10:09:38.372Z",
   "articles": [
+    {
+      "title": "An avalanche inspired this forecaster to keep others safe",
+      "link": "https://www.snexplores.org/article/avalanche-forecaster-snow-science",
+      "published": "2026-10-28T10:30:00.000Z",
+      "snippet": "Chris Dickson combines tech and field observations to make avalanche forecasts.",
+      "summary": "Chris Dickson uses technology and field observations to create avalanche forecasts. He was inspired to do this job and keep others safe after experiencing an avalanche himself."
+    },
     {
       "title": "An avalanche inspired this forecaster to keep others safe",
       "link": "https://www.snexplores.org/article/avalanche-forecaster-snow-science",
@@ -22,6 +29,20 @@
       "published": "2026-10-28T10:30:00.000Z",
       "snippet": "Chris Dickson combines tech and field observations to make avalanche forecasts.",
       "summary": "Chris Dickson uses technology and field observations to make avalanche forecasts. He was inspired by an avalanche to help keep others safe."
+    },
+    {
+      "title": "Farm plants may help fight infections, teen finds",
+      "link": "https://www.snexplores.org/article/farm-plants-fight-bacteria-jic",
+      "published": "2026-10-27T10:30:00.000Z",
+      "snippet": "This middle-school student’s homegrown solutions may point to new ways to take down bacteria.",
+      "summary": "A middle-school student found that homegrown farm plants might help fight bacterial infections. These solutions could point to new ways to take down bacteria."
+    },
+    {
+      "title": "This ‘anti-vampiric’ grave was double guarded against the undead",
+      "link": "https://www.snexplores.org/article/anti-vampire-grave-undead-burial",
+      "published": "2026-10-27T10:30:00.000Z",
+      "snippet": "A sickle across the throat and a padlock on her toe were meant to keep a 17th-century teen girl from resurrecting from the grave.",
+      "summary": "A 17th-century teenage girl was buried with a sickle across her throat and a padlock on her toe to prevent her from coming back from the dead. These unusual measures were meant to act as a double guard against her resurrecting as a vampire."
     },
     {
       "title": "Farm plants may help fight infections, teen finds",
@@ -64,27 +85,6 @@
       "published": "2026-10-27T10:30:00.000Z",
       "snippet": "A sickle across the throat and a padlock on her toe were meant to keep a 17th-century teen girl from resurrecting from the grave.",
       "summary": "A 17th-century teenage girl was buried with a sickle across her throat and a padlock on her toe to stop her from coming back to life. These unusual items were used as double protection against the undead."
-    },
-    {
-      "title": "Farm plants may help fight infections, teen finds",
-      "link": "https://www.snexplores.org/article/farm-plants-fight-bacteria-jic",
-      "published": "2026-10-27T10:30:00.000Z",
-      "snippet": "This middle-school student’s homegrown solutions may point to new ways to take down bacteria.",
-      "summary": "A middle-school student found that homegrown farm plants might help fight bacterial infections. These solutions could point to exciting new ways to take down harmful bacteria."
-    },
-    {
-      "title": "This ‘anti-vampiric’ grave was double guarded against the undead",
-      "link": "https://www.snexplores.org/article/anti-vampire-grave-undead-burial",
-      "published": "2026-10-27T10:30:00.000Z",
-      "snippet": "A sickle across the throat and a padlock on her toe were meant to keep a 17th-century teen girl from resurrecting from the grave.",
-      "summary": "Archaeologists found a 17th-century teen's grave with a sickle across her throat and a padlock on her toe. These strange items were meant to keep her from resurrecting from the dead."
-    },
-    {
-      "title": "Farm plants may help fight infections, teen finds",
-      "link": "https://www.snexplores.org/article/farm-plants-fight-bacteria-jic",
-      "published": "2026-10-27T10:30:00.000Z",
-      "snippet": "This middle-school student’s homegrown solutions may point to new ways to take down bacteria.",
-      "summary": "A middle-school student found that homegrown farm plants might help fight bacterial infections. These solutions could point to new ways to take down bacteria."
     }
   ]
 }
