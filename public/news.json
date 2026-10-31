@@ -1,13 +1,20 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-31T05:54:50.710Z",
+  "updatedAt": "2026-10-31T12:44:56.212Z",
   "articles": [
     {
       "title": "Giant sea spiders emit eerie glow deep below the ocean waves",
       "link": "https://www.snexplores.org/article/giant-sea-spiders-emit-eerie-glow",
       "published": "2026-10-30T10:30:00.000Z",
       "snippet": "Scientists captured the lanky-legged specimens during an expedition to a deep trench near Australia.",
-      "summary": null
+      "summary": "Scientists found glowing, long-legged sea spiders during an expedition to a deep trench near Australia. These giant specimens were captured deep below the ocean waves."
+    },
+    {
+      "title": "Giant sea spiders emit eerie glow deep below the ocean waves",
+      "link": "https://www.snexplores.org/article/giant-sea-spiders-emit-eerie-glow",
+      "published": "2026-10-30T10:30:00.000Z",
+      "snippet": "Scientists captured the lanky-legged specimens during an expedition to a deep trench near Australia.",
+      "summary": "Scientists found giant sea spiders with long legs during an expedition to a deep trench near Australia. These creatures were captured in the deep ocean waters."
     },
     {
       "title": "Giant sea spiders emit eerie glow deep below the ocean waves",
@@ -22,6 +29,13 @@
       "published": "2026-10-30T10:30:00.000Z",
       "snippet": "Scientists captured the lanky-legged specimens during an expedition to a deep trench near Australia.",
       "summary": "Scientists found giant sea spiders with long legs during an expedition to a deep trench near Australia. These creatures were captured deep below the ocean waves."
+    },
+    {
+      "title": "These 5 quirks reveal how AI doesn’t think like we do",
+      "link": "https://www.snexplores.org/article/5-quirks-how-ai-thinks",
+      "published": "2026-10-29T10:30:00.000Z",
+      "snippet": "The differences between human and AI learning and reasoning lead to some strange bot behaviors.",
+      "summary": "The differences between how humans and AI learn and reason lead to some strange bot behaviors. These five quirks reveal that artificial intelligence does not think the same way we do."
     },
     {
       "title": "These 5 quirks reveal how AI doesn’t think like we do",
@@ -70,21 +84,7 @@
       "link": "https://www.snexplores.org/article/avalanche-forecaster-snow-science",
       "published": "2026-10-28T10:30:00.000Z",
       "snippet": "Chris Dickson combines tech and field observations to make avalanche forecasts.",
-      "summary": "Chris Dickson combines technology and field observations to make avalanche forecasts. His work with avalanches is inspired by an experience that makes him want to keep others safe."
-    },
-    {
-      "title": "An avalanche inspired this forecaster to keep others safe",
-      "link": "https://www.snexplores.org/article/avalanche-forecaster-snow-science",
-      "published": "2026-10-28T10:30:00.000Z",
-      "snippet": "Chris Dickson combines tech and field observations to make avalanche forecasts.",
-      "summary": "Chris Dickson uses technology and field observations to make avalanche forecasts. He was inspired to do this job to keep others safe after experiencing an avalanche."
-    },
-    {
-      "title": "An avalanche inspired this forecaster to keep others safe",
-      "link": "https://www.snexplores.org/article/avalanche-forecaster-snow-science",
-      "published": "2026-10-28T10:30:00.000Z",
-      "snippet": "Chris Dickson combines tech and field observations to make avalanche forecasts.",
-      "summary": "Chris Dickson uses technology and field observations to make avalanche forecasts. He was inspired by an avalanche to help keep others safe."
+      "summary": "Chris Dickson uses technology and field observations to make avalanche forecasts. His work was inspired by an avalanche and helps keep others safe."
     }
   ]
 }
