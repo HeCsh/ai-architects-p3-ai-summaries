@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-10-31T19:21:29.124Z",
+  "updatedAt": "2026-11-01T00:11:19.406Z",
   "articles": [
+    {
+      "title": "Giant sea spiders emit eerie glow deep below the ocean waves",
+      "link": "https://www.snexplores.org/article/giant-sea-spiders-emit-eerie-glow",
+      "published": "2026-10-30T10:30:00.000Z",
+      "snippet": "Scientists captured the lanky-legged specimens during an expedition to a deep trench near Australia.",
+      "summary": "Scientists filmed giant sea spiders with long legs during an expedition to a deep trench near Australia. These creatures were found deep below the ocean waves."
+    },
     {
       "title": "Giant sea spiders emit eerie glow deep below the ocean waves",
       "link": "https://www.snexplores.org/article/giant-sea-spiders-emit-eerie-glow",
@@ -42,6 +49,13 @@
       "link": "https://www.snexplores.org/article/5-quirks-how-ai-thinks",
       "published": "2026-10-29T10:30:00.000Z",
       "snippet": "The differences between human and AI learning and reasoning lead to some strange bot behaviors.",
+      "summary": "The differences between how humans and AI learn and reason cause strange bot behaviors. These five quirks show that AI does not think the same way we do."
+    },
+    {
+      "title": "These 5 quirks reveal how AI doesn’t think like we do",
+      "link": "https://www.snexplores.org/article/5-quirks-how-ai-thinks",
+      "published": "2026-10-29T10:30:00.000Z",
+      "snippet": "The differences between human and AI learning and reasoning lead to some strange bot behaviors.",
       "summary": "Differences between human and AI learning and reasoning lead to some strange bot behaviors. These quirks reveal how artificial intelligence does not think like we do."
     },
     {
@@ -71,20 +85,6 @@
       "published": "2026-10-29T10:30:00.000Z",
       "snippet": "The differences between human and AI learning and reasoning lead to some strange bot behaviors.",
       "summary": "Human and artificial intelligence learn and reason differently. This leads to strange bot behaviors."
-    },
-    {
-      "title": "These 5 quirks reveal how AI doesn’t think like we do",
-      "link": "https://www.snexplores.org/article/5-quirks-how-ai-thinks",
-      "published": "2026-10-29T10:30:00.000Z",
-      "snippet": "The differences between human and AI learning and reasoning lead to some strange bot behaviors.",
-      "summary": "Differences between how humans and AI learn and reason result in some strange bot behaviors. These unique quirks show that AI does not think the same way people do."
-    },
-    {
-      "title": "These 5 quirks reveal how AI doesn’t think like we do",
-      "link": "https://www.snexplores.org/article/5-quirks-how-ai-thinks",
-      "published": "2026-10-29T10:30:00.000Z",
-      "snippet": "The differences between human and AI learning and reasoning lead to some strange bot behaviors.",
-      "summary": "Artificial intelligence learns and reasons differently than humans, which causes some strange bot behaviors. These unique quirks show that AI does not think the way people do."
     }
   ]
 }
