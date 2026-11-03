@@ -1,7 +1,21 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-02T19:34:31.033Z",
+  "updatedAt": "2026-11-03T02:57:05.646Z",
   "articles": [
+    {
+      "title": "Scientists Say: Fibonacci sequence",
+      "link": "https://www.snexplores.org/article/scientists-say-fibonacci-sequence-definition-pronunciation",
+      "published": "2026-11-02T11:30:00.000Z",
+      "snippet": "This elegant mathematical pattern appears in sunflower petals, pine cones and more.",
+      "summary": "The Fibonacci sequence is an elegant mathematical pattern that can be found in sunflower petals and pine cones."
+    },
+    {
+      "title": "Toys inspired this moon rover’s unique design",
+      "link": "https://www.snexplores.org/article/toy-inspired-mini-moon-rover",
+      "published": "2026-11-02T11:30:00.000Z",
+      "snippet": "After transforming from a ball into a wheeled robot, this small rover crawled along the lunar surface, taking photos.",
+      "summary": "A small toy-inspired moon rover transformed from a ball into a wheeled robot. It then crawled along the lunar surface while taking photos."
+    },
     {
       "title": "Scientists Say: Fibonacci sequence",
       "link": "https://www.snexplores.org/article/scientists-say-fibonacci-sequence-definition-pronunciation",
@@ -15,6 +29,13 @@
       "published": "2026-11-02T11:30:00.000Z",
       "snippet": "After transforming from a ball into a wheeled robot, this small rover crawled along the lunar surface, taking photos.",
       "summary": "A small toy-inspired rover on the moon transformed from a ball into a wheeled robot. While moving across the lunar surface, it used its unique design to take photos."
+    },
+    {
+      "title": "Giant sea spiders emit eerie glow deep below the ocean waves",
+      "link": "https://www.snexplores.org/article/giant-sea-spiders-emit-eerie-glow",
+      "published": "2026-10-30T10:30:00.000Z",
+      "snippet": "Scientists captured the lanky-legged specimens during an expedition to a deep trench near Australia.",
+      "summary": "Scientists captured giant, long-legged sea spiders during an expedition to a deep trench near Australia. These creatures were found deep below the ocean waves."
     },
     {
       "title": "Giant sea spiders emit eerie glow deep below the ocean waves",
@@ -64,27 +85,6 @@
       "published": "2026-10-30T10:30:00.000Z",
       "snippet": "Scientists captured the lanky-legged specimens during an expedition to a deep trench near Australia.",
       "summary": "Scientists found giant sea spiders with long legs during an expedition to a deep trench near Australia. These creatures were captured deep below the ocean waves."
-    },
-    {
-      "title": "Giant sea spiders emit eerie glow deep below the ocean waves",
-      "link": "https://www.snexplores.org/article/giant-sea-spiders-emit-eerie-glow",
-      "published": "2026-10-30T10:30:00.000Z",
-      "snippet": "Scientists captured the lanky-legged specimens during an expedition to a deep trench near Australia.",
-      "summary": "Scientists found glowing, long-legged sea spiders during an expedition to a deep trench near Australia. These giant specimens were captured deep below the ocean waves."
-    },
-    {
-      "title": "Giant sea spiders emit eerie glow deep below the ocean waves",
-      "link": "https://www.snexplores.org/article/giant-sea-spiders-emit-eerie-glow",
-      "published": "2026-10-30T10:30:00.000Z",
-      "snippet": "Scientists captured the lanky-legged specimens during an expedition to a deep trench near Australia.",
-      "summary": "Scientists found giant sea spiders with long legs during an expedition to a deep trench near Australia. These creatures were captured in the deep ocean waters."
-    },
-    {
-      "title": "Giant sea spiders emit eerie glow deep below the ocean waves",
-      "link": "https://www.snexplores.org/article/giant-sea-spiders-emit-eerie-glow",
-      "published": "2026-10-30T10:30:00.000Z",
-      "snippet": "Scientists captured the lanky-legged specimens during an expedition to a deep trench near Australia.",
-      "summary": "Scientists filmed lanky-legged giant sea spiders during an expedition to a deep ocean trench near Australia. These creatures were captured deep below the ocean waves."
     }
   ]
 }
