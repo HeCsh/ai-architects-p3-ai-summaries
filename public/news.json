@@ -1,6 +1,6 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-05T01:30:11.459Z",
+  "updatedAt": "2026-11-05T11:08:37.896Z",
   "articles": [
     {
       "title": "Analyze This: Microbes can make valuable chemicals more sustainable",
@@ -14,7 +14,28 @@
       "link": "https://www.snexplores.org/article/microbes-make-green-chemicals",
       "published": "2026-11-04T11:30:00.000Z",
       "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
+      "summary": "Bacteria fed on food waste might one day be used to create chemical ingredients for medicines and cosmetics. This process could help make the production of these valuable chemicals more sustainable."
+    },
+    {
+      "title": "Analyze This: Microbes can make valuable chemicals more sustainable",
+      "link": "https://www.snexplores.org/article/microbes-make-green-chemicals",
+      "published": "2026-11-04T11:30:00.000Z",
+      "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
       "summary": "Bacteria fed on food waste might one day be used to create chemical ingredients for medicines and cosmetics. This process could make the production of valuable chemicals much more sustainable."
+    },
+    {
+      "title": "Let’s learn about how particles act like waves",
+      "link": "https://www.snexplores.org/article/lets-learn-about-how-particles-act-like-waves",
+      "published": "2026-11-03T11:30:00.000Z",
+      "snippet": "So-called “wave-particle duality” is one of the strangest parts of quantum physics.",
+      "summary": "Wave- particle duality is one of the strangest parts of quantum physics. This concept is about how particles act like waves."
+    },
+    {
+      "title": "Would growing a big heart make the Grinch strong?",
+      "link": "https://www.snexplores.org/article/grinch-heart-size-grow-strong",
+      "published": "2026-11-03T11:30:00.000Z",
+      "snippet": "In the classic Dr. Seuss tale, the Grinch’s heart grows in an instant. That probably wouldn’t have been good for him — unless he was a snake.",
+      "summary": "In the classic Dr. Seuss story, the Grinch's heart grows instantly, which probably would not have been good for him. However, this sudden growth might have been safe if the Grinch had been a snake."
     },
     {
       "title": "Let’s learn about how particles act like waves",
@@ -64,27 +85,6 @@
       "published": "2026-11-03T11:30:00.000Z",
       "snippet": "So-called “wave-particle duality” is one of the strangest parts of quantum physics.",
       "summary": "Wave-particle duality is one of the strangest parts of quantum physics. This concept is about how particles act like waves."
-    },
-    {
-      "title": "Would growing a big heart make the Grinch strong?",
-      "link": "https://www.snexplores.org/article/grinch-heart-size-grow-strong",
-      "published": "2026-11-03T11:30:00.000Z",
-      "snippet": "In the classic Dr. Seuss tale, the Grinch’s heart grows in an instant. That probably wouldn’t have been good for him — unless he was a snake.",
-      "summary": "In the classic Dr. Seuss tale, the Grinch's heart grows in an instant, which probably would not have been good for him. However, this sudden growth might have been good for him if he was a snake."
-    },
-    {
-      "title": "Scientists Say: Fibonacci sequence",
-      "link": "https://www.snexplores.org/article/scientists-say-fibonacci-sequence-definition-pronunciation",
-      "published": "2026-11-02T11:30:00.000Z",
-      "snippet": "This elegant mathematical pattern appears in sunflower petals, pine cones and more.",
-      "summary": "The Fibonacci sequence is an elegant mathematical pattern that appears in nature. You can find this pattern in sunflower petals, pine cones, and more."
-    },
-    {
-      "title": "Toys inspired this moon rover’s unique design",
-      "link": "https://www.snexplores.org/article/toy-inspired-mini-moon-rover",
-      "published": "2026-11-02T11:30:00.000Z",
-      "snippet": "After transforming from a ball into a wheeled robot, this small rover crawled along the lunar surface, taking photos.",
-      "summary": "A toy-inspired lunar rover transformed from a ball into a wheeled robot on the moon. While moving along the lunar surface, the small robot also took photos."
     }
   ]
 }
