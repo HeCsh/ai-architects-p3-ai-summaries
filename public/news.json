@@ -1,7 +1,21 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-05T11:08:37.896Z",
+  "updatedAt": "2026-11-05T20:04:35.748Z",
   "articles": [
+    {
+      "title": "Static electricity remains shockingly mysterious",
+      "link": "https://www.snexplores.org/article/static-electricity-shock-mysterious",
+      "published": "2026-11-05T11:30:00.000Z",
+      "snippet": "Despite studying static charge for centuries, scientists still aren’t clear on precisely how it works.",
+      "summary": "Scientists have been studying static charge for hundreds of years. However, they still do not know exactly how it works."
+    },
+    {
+      "title": "Analyze This: Microbes can make valuable chemicals more sustainably",
+      "link": "https://www.snexplores.org/article/microbes-make-green-chemicals",
+      "published": "2026-11-04T11:30:00.000Z",
+      "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
+      "summary": "Bacteria fed on food waste might one day be used to create chemical ingredients for medicines and cosmetics. This process could help make valuable chemicals more sustainably."
+    },
     {
       "title": "Analyze This: Microbes can make valuable chemicals more sustainable",
       "link": "https://www.snexplores.org/article/microbes-make-green-chemicals",
@@ -22,6 +36,20 @@
       "published": "2026-11-04T11:30:00.000Z",
       "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
       "summary": "Bacteria fed on food waste might one day be used to create chemical ingredients for medicines and cosmetics. This process could make the production of valuable chemicals much more sustainable."
+    },
+    {
+      "title": "Let’s learn about how particles act like waves",
+      "link": "https://www.snexplores.org/article/lets-learn-about-how-particles-act-like-waves",
+      "published": "2026-11-03T11:30:00.000Z",
+      "snippet": "So-called “wave-particle duality” is one of the strangest parts of quantum physics.",
+      "summary": "The text explains that wave-particle duality is one of the strangest parts of quantum physics, which is how particles act like waves."
+    },
+    {
+      "title": "Would growing a big heart make the Grinch strong?",
+      "link": "https://www.snexplores.org/article/grinch-heart-size-grow-strong",
+      "published": "2026-11-03T11:30:00.000Z",
+      "snippet": "In the classic Dr. Seuss tale, the Grinch’s heart grows in an instant. That probably wouldn’t have been good for him — unless he was a snake.",
+      "summary": "In the classic Dr. Seuss story, the Grinch's heart grows instantly, which probably would not have been good for him. However, this sudden growth might have been good for him if he were a snake."
     },
     {
       "title": "Let’s learn about how particles act like waves",
@@ -57,34 +85,6 @@
       "published": "2026-11-03T11:30:00.000Z",
       "snippet": "So-called “wave-particle duality” is one of the strangest parts of quantum physics.",
       "summary": "Wave-particle duality is one of the strangest parts of quantum physics. This concept describes how particles act like waves."
-    },
-    {
-      "title": "Would growing a big heart make the Grinch strong?",
-      "link": "https://www.snexplores.org/article/grinch-heart-size-grow-strong",
-      "published": "2026-11-03T11:30:00.000Z",
-      "snippet": "In the classic Dr. Seuss tale, the Grinch’s heart grows in an instant. That probably wouldn’t have been good for him — unless he was a snake.",
-      "summary": "In the classic Dr. Seuss story, the Grinch's heart grows instantly, which probably would not have been good for him. However, this sudden growth might have been good for him if he was a snake."
-    },
-    {
-      "title": "Let’s learn about how particles act like waves",
-      "link": "https://www.snexplores.org/article/lets-learn-about-how-particles-act-like-waves",
-      "published": "2026-11-03T11:30:00.000Z",
-      "snippet": "So-called “wave-particle duality” is one of the strangest parts of quantum physics.",
-      "summary": "Wave-particle duality is one of the strangest parts of quantum physics. This concept describes how particles act like waves."
-    },
-    {
-      "title": "Would growing a big heart make the Grinch strong?",
-      "link": "https://www.snexplores.org/article/grinch-heart-size-grow-strong",
-      "published": "2026-11-03T11:30:00.000Z",
-      "snippet": "In the classic Dr. Seuss tale, the Grinch’s heart grows in an instant. That probably wouldn’t have been good for him — unless he was a snake.",
-      "summary": "In the classic Dr. Seuss tale, the Grinch's heart grows instantly, which probably would not have been good for him. However, this sudden growth might have been fine if he were a snake."
-    },
-    {
-      "title": "Let’s learn about how particles act like waves",
-      "link": "https://www.snexplores.org/article/lets-learn-about-how-particles-act-like-waves",
-      "published": "2026-11-03T11:30:00.000Z",
-      "snippet": "So-called “wave-particle duality” is one of the strangest parts of quantum physics.",
-      "summary": "Wave-particle duality is one of the strangest parts of quantum physics. This concept is about how particles act like waves."
     }
   ]
 }
