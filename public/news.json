@@ -1,13 +1,34 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-04T19:52:53.633Z",
+  "updatedAt": "2026-11-05T01:30:11.459Z",
   "articles": [
     {
       "title": "Analyze This: Microbes can make valuable chemicals more sustainable",
       "link": "https://www.snexplores.org/article/microbes-make-green-chemicals",
       "published": "2026-11-04T11:30:00.000Z",
       "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
+      "summary": "Bacteria fed on food waste might one day be used to create chemical ingredients for medicines and cosmetics. This process could help make the production of these valuable chemicals more sustainable."
+    },
+    {
+      "title": "Analyze This: Microbes can make valuable chemicals more sustainable",
+      "link": "https://www.snexplores.org/article/microbes-make-green-chemicals",
+      "published": "2026-11-04T11:30:00.000Z",
+      "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
       "summary": "Bacteria fed on food waste might one day be used to create chemical ingredients for medicines and cosmetics. This process could make the production of valuable chemicals much more sustainable."
+    },
+    {
+      "title": "Let’s learn about how particles act like waves",
+      "link": "https://www.snexplores.org/article/lets-learn-about-how-particles-act-like-waves",
+      "published": "2026-11-03T11:30:00.000Z",
+      "snippet": "So-called “wave-particle duality” is one of the strangest parts of quantum physics.",
+      "summary": "The text explains that wave-particle duality is one of the strangest parts of quantum physics, which is how particles act like waves."
+    },
+    {
+      "title": "Would growing a big heart make the Grinch strong?",
+      "link": "https://www.snexplores.org/article/grinch-heart-size-grow-strong",
+      "published": "2026-11-03T11:30:00.000Z",
+      "snippet": "In the classic Dr. Seuss tale, the Grinch’s heart grows in an instant. That probably wouldn’t have been good for him — unless he was a snake.",
+      "summary": "In the classic Dr. Seuss tale, the Grinch's heart grows instantly, which probably would not have been good for him. However, this sudden growth might have been fine if he was a snake."
     },
     {
       "title": "Let’s learn about how particles act like waves",
@@ -56,35 +77,14 @@
       "link": "https://www.snexplores.org/article/scientists-say-fibonacci-sequence-definition-pronunciation",
       "published": "2026-11-02T11:30:00.000Z",
       "snippet": "This elegant mathematical pattern appears in sunflower petals, pine cones and more.",
-      "summary": "The Fibonacci sequence is an elegant mathematical pattern found in nature. It can be seen in sunflower petals and pine cones."
+      "summary": "The Fibonacci sequence is an elegant mathematical pattern that appears in nature. You can find this pattern in sunflower petals, pine cones, and more."
     },
     {
       "title": "Toys inspired this moon rover’s unique design",
       "link": "https://www.snexplores.org/article/toy-inspired-mini-moon-rover",
       "published": "2026-11-02T11:30:00.000Z",
       "snippet": "After transforming from a ball into a wheeled robot, this small rover crawled along the lunar surface, taking photos.",
-      "summary": "A toy-inspired lunar rover transformed from a ball into a wheeled robot on the moon's surface. While moving along, the small rover took photos."
-    },
-    {
-      "title": "Scientists Say: Fibonacci sequence",
-      "link": "https://www.snexplores.org/article/scientists-say-fibonacci-sequence-definition-pronunciation",
-      "published": "2026-11-02T11:30:00.000Z",
-      "snippet": "This elegant mathematical pattern appears in sunflower petals, pine cones and more.",
-      "summary": "The Fibonacci sequence is an elegant mathematical pattern that can be found in sunflower petals and pine cones. This famous number sequence appears in various places throughout nature."
-    },
-    {
-      "title": "Toys inspired this moon rover’s unique design",
-      "link": "https://www.snexplores.org/article/toy-inspired-mini-moon-rover",
-      "published": "2026-11-02T11:30:00.000Z",
-      "snippet": "After transforming from a ball into a wheeled robot, this small rover crawled along the lunar surface, taking photos.",
-      "summary": "A toy-inspired lunar rover transformed from a ball into a wheeled robot on the moon's surface. It then crawled along the moon and took photos."
-    },
-    {
-      "title": "Scientists Say: Fibonacci sequence",
-      "link": "https://www.snexplores.org/article/scientists-say-fibonacci-sequence-definition-pronunciation",
-      "published": "2026-11-02T11:30:00.000Z",
-      "snippet": "This elegant mathematical pattern appears in sunflower petals, pine cones and more.",
-      "summary": "The Fibonacci sequence is an elegant mathematical pattern found in nature. It appears in things like sunflower petals and pine cones."
+      "summary": "A toy-inspired lunar rover transformed from a ball into a wheeled robot on the moon. While moving along the lunar surface, the small robot also took photos."
     }
   ]
 }
