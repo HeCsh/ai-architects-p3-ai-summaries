@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-07T00:58:30.083Z",
+  "updatedAt": "2026-11-07T10:25:15.618Z",
   "articles": [
+    {
+      "title": "Mystery solved? Why ‘sleeping’ ants suddenly explode with activity",
+      "link": "https://www.snexplores.org/article/ants-sudden-activity-bursts",
+      "published": "2026-11-06T11:30:00.000Z",
+      "snippet": "For decades, scientists have puzzled over what triggers some colonies of ants to burst from rest into community-wide action. Math may now explain this.",
+      "summary": "Scientists have used math to solve a long-standing mystery about what causes resting ant colonies to suddenly burst into active behavior. This breakthrough explains the triggers behind why sleeping ants wake up with community-wide activity."
+    },
     {
       "title": "Mystery solved? Why ‘sleeping’ ants suddenly explode with activity",
       "link": "https://www.snexplores.org/article/ants-sudden-activity-bursts",
@@ -15,6 +22,13 @@
       "published": "2026-11-06T11:30:00.000Z",
       "snippet": "For decades, scientists have puzzled over what triggers some colonies of ants to burst from rest into community-wide action. Math may now explain this.",
       "summary": "Scientists used math to solve a decades-old mystery about what causes resting ant colonies to suddenly become very active. This new research explains why these sleeping ants burst into community-wide action."
+    },
+    {
+      "title": "Static electricity remains shockingly mysterious",
+      "link": "https://www.snexplores.org/article/static-electricity-shock-mysterious",
+      "published": "2026-11-05T11:30:00.000Z",
+      "snippet": "Despite studying static charge for centuries, scientists still aren’t clear on precisely how it works.",
+      "summary": "Scientists have been studying static charge for hundreds of years. However, they still do not understand exactly how it works."
     },
     {
       "title": "Static electricity remains shockingly mysterious",
@@ -56,6 +70,13 @@
       "link": "https://www.snexplores.org/article/microbes-make-green-chemicals",
       "published": "2026-11-04T11:30:00.000Z",
       "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
+      "summary": "Bacteria fed on food waste might one day be used to create chemical ingredients for medicines and cosmetics. This process could help make valuable chemicals more sustainably."
+    },
+    {
+      "title": "Analyze This: Microbes can make valuable chemicals more sustainably",
+      "link": "https://www.snexplores.org/article/microbes-make-green-chemicals",
+      "published": "2026-11-04T11:30:00.000Z",
+      "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
       "summary": "Bacteria fed with food waste might one day be used to create chemical ingredients for medicines and cosmetics. This process could help make valuable chemicals more sustainably."
     },
     {
@@ -64,27 +85,6 @@
       "published": "2026-11-04T11:30:00.000Z",
       "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
       "summary": "Scientists are studying how bacteria fed with food waste could one day create chemical ingredients for medicines and cosmetics. This process might help make valuable chemicals more sustainably in the future."
-    },
-    {
-      "title": "Analyze This: Microbes can make valuable chemicals more sustainably",
-      "link": "https://www.snexplores.org/article/microbes-make-green-chemicals",
-      "published": "2026-11-04T11:30:00.000Z",
-      "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
-      "summary": "Bacteria fed with food waste might one day be used to create chemical ingredients for medicines and cosmetics. This process could help produce valuable chemicals more sustainably."
-    },
-    {
-      "title": "Analyze This: Microbes can make valuable chemicals more sustainably",
-      "link": "https://www.snexplores.org/article/microbes-make-green-chemicals",
-      "published": "2026-11-04T11:30:00.000Z",
-      "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
-      "summary": "Bacteria fed on food waste might one day be used to create chemical ingredients for medicines and cosmetics. This process could help make valuable chemicals more sustainably."
-    },
-    {
-      "title": "Analyze This: Microbes can make valuable chemicals more sustainably",
-      "link": "https://www.snexplores.org/article/microbes-make-green-chemicals",
-      "published": "2026-11-04T11:30:00.000Z",
-      "snippet": "Food waste-fed bacteria may someday make chemical ingredients for medicines, cosmetics and more.",
-      "summary": "Bacteria fed on food waste might one day be used to create chemical ingredients for medicines and cosmetics. This process could help make valuable chemicals more sustainably."
     }
   ]
 }
