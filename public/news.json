@@ -1,7 +1,28 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-09T00:58:50.667Z",
+  "updatedAt": "2026-11-09T11:46:26.262Z",
   "articles": [
+    {
+      "title": "Scientists Say: Occultation",
+      "link": "https://www.snexplores.org/article/scientists-say-occultation-definition-pronunciation",
+      "published": "2026-11-09T11:30:00.000Z",
+      "snippet": "Thanks to one of these events in 1977, astronomers discovered Uranus's rings.",
+      "summary": "In 1977, astronomers used a special event called an occultation to discover the rings around the planet Uranus. This type of cosmic event helped scientists learn more about our solar system."
+    },
+    {
+      "title": "Seals long ago evolved to hear above the water — and below",
+      "link": "https://www.snexplores.org/article/seal-ears-hearing-air-underwater",
+      "published": "2026-11-09T11:30:00.000Z",
+      "snippet": "Spongy tissue that fills with blood makes this possible, show X-ray scans of hundreds of ears from seals and other animals.",
+      "summary": "X-ray scans of hundreds of animal ears show that seals evolved spongy tissue filled with blood to help them hear both above and below the water. This special tissue makes it possible for seals to hear in both environments."
+    },
+    {
+      "title": "Mystery solved? Why ‘sleeping’ ants suddenly explode with activity",
+      "link": "https://www.snexplores.org/article/ants-sudden-activity-bursts",
+      "published": "2026-11-06T11:30:00.000Z",
+      "snippet": "For decades, scientists have puzzled over what triggers some colonies of ants to burst from rest into community-wide action. Math may now explain this.",
+      "summary": "Scientists used math to figure out what triggers resting ant colonies to suddenly burst into community-wide action. This solves a decades-long mystery about why sleeping ants suddenly become very active."
+    },
     {
       "title": "Mystery solved? Why ‘sleeping’ ants suddenly explode with activity",
       "link": "https://www.snexplores.org/article/ants-sudden-activity-bursts",
@@ -64,27 +85,6 @@
       "published": "2026-11-06T11:30:00.000Z",
       "snippet": "For decades, scientists have puzzled over what triggers some colonies of ants to burst from rest into community-wide action. Math may now explain this.",
       "summary": "Scientists used math to solve a decades-old mystery about what causes resting ant colonies to suddenly become very active. This new research explains why these sleeping ants burst into community-wide action."
-    },
-    {
-      "title": "Static electricity remains shockingly mysterious",
-      "link": "https://www.snexplores.org/article/static-electricity-shock-mysterious",
-      "published": "2026-11-05T11:30:00.000Z",
-      "snippet": "Despite studying static charge for centuries, scientists still aren’t clear on precisely how it works.",
-      "summary": "Even though scientists have studied static charge for hundreds of years, they still do not know exactly how it works. Researchers are continuing to investigate this surprisingly mysterious scientific process."
-    },
-    {
-      "title": "Static electricity remains shockingly mysterious",
-      "link": "https://www.snexplores.org/article/static-electricity-shock-mysterious",
-      "published": "2026-11-05T11:30:00.000Z",
-      "snippet": "Despite studying static charge for centuries, scientists still aren’t clear on precisely how it works.",
-      "summary": "Scientists still do not know exactly how static electricity works even though they have studied it for hundreds of years. This mystery persists despite centuries of research into static charge."
-    },
-    {
-      "title": "Static electricity remains shockingly mysterious",
-      "link": "https://www.snexplores.org/article/static-electricity-shock-mysterious",
-      "published": "2026-11-05T11:30:00.000Z",
-      "snippet": "Despite studying static charge for centuries, scientists still aren’t clear on precisely how it works.",
-      "summary": "Even though scientists have studied static electricity for hundreds of years, they still do not know exactly how it works. Researchers are continuing to investigate this surprisingly mysterious scientific process."
     }
   ]
 }
