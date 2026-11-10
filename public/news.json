@@ -1,7 +1,21 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-09T22:29:20.243Z",
+  "updatedAt": "2026-11-10T07:28:08.414Z",
   "articles": [
+    {
+      "title": "Scientists Say: Occultation",
+      "link": "https://www.snexplores.org/article/scientists-say-occultation-definition-pronunciation",
+      "published": "2026-11-09T11:30:00.000Z",
+      "snippet": "Thanks to one of these events in 1977, astronomers discovered Uranus's rings.",
+      "summary": "In 1977, astronomers used a special event called an occultation to discover the rings around the planet Uranus. This discovery happened thanks to one of these space events."
+    },
+    {
+      "title": "Seals long ago evolved to hear above the water — and below",
+      "link": "https://www.snexplores.org/article/seal-ears-hearing-air-underwater",
+      "published": "2026-11-09T11:30:00.000Z",
+      "snippet": "Spongy tissue that fills with blood makes this possible, show X-ray scans of hundreds of ears from seals and other animals.",
+      "summary": "X-ray scans of hundreds of animal ears show that seals evolved spongy tissue filled with blood. This special tissue allows seals to hear both above and below the water."
+    },
     {
       "title": "Scientists Say: Occultation",
       "link": "https://www.snexplores.org/article/scientists-say-occultation-definition-pronunciation",
@@ -29,6 +43,13 @@
       "published": "2026-11-09T11:30:00.000Z",
       "snippet": "Spongy tissue that fills with blood makes this possible, show X-ray scans of hundreds of ears from seals and other animals.",
       "summary": "X-ray scans of hundreds of animal ears show that seals evolved spongy tissue filled with blood to help them hear both above and below the water. This special tissue makes it possible for seals to hear in both environments."
+    },
+    {
+      "title": "Mystery solved? Why ‘sleeping’ ants suddenly explode with activity",
+      "link": "https://www.snexplores.org/article/ants-sudden-activity-bursts",
+      "published": "2026-11-06T11:30:00.000Z",
+      "snippet": "For decades, scientists have puzzled over what triggers some colonies of ants to burst from rest into community-wide action. Math may now explain this.",
+      "summary": "Scientists used math to solve a decades-old mystery about what triggers resting ants to suddenly become active. This discovery explains why some ant colonies burst from rest into community-wide action."
     },
     {
       "title": "Mystery solved? Why ‘sleeping’ ants suddenly explode with activity",
@@ -64,27 +85,6 @@
       "published": "2026-11-06T11:30:00.000Z",
       "snippet": "For decades, scientists have puzzled over what triggers some colonies of ants to burst from rest into community-wide action. Math may now explain this.",
       "summary": "Scientists have used math to solve a long-standing mystery about what causes resting ant colonies to suddenly burst into active behavior. This breakthrough explains why groups of sleeping ants are triggered into community-wide action."
-    },
-    {
-      "title": "Mystery solved? Why ‘sleeping’ ants suddenly explode with activity",
-      "link": "https://www.snexplores.org/article/ants-sudden-activity-bursts",
-      "published": "2026-11-06T11:30:00.000Z",
-      "snippet": "For decades, scientists have puzzled over what triggers some colonies of ants to burst from rest into community-wide action. Math may now explain this.",
-      "summary": "Scientists have finally used math to explain why resting ant colonies suddenly burst into activity. For decades, researchers were puzzled by what triggers these ants to wake up."
-    },
-    {
-      "title": "Mystery solved? Why ‘sleeping’ ants suddenly explode with activity",
-      "link": "https://www.snexplores.org/article/ants-sudden-activity-bursts",
-      "published": "2026-11-06T11:30:00.000Z",
-      "snippet": "For decades, scientists have puzzled over what triggers some colonies of ants to burst from rest into community-wide action. Math may now explain this.",
-      "summary": "Scientists used math to solve a decades-old mystery about what causes resting ant colonies to suddenly burst into community-wide action. This new explanation helps show why sleeping ants suddenly explode with activity."
-    },
-    {
-      "title": "Mystery solved? Why ‘sleeping’ ants suddenly explode with activity",
-      "link": "https://www.snexplores.org/article/ants-sudden-activity-bursts",
-      "published": "2026-11-06T11:30:00.000Z",
-      "snippet": "For decades, scientists have puzzled over what triggers some colonies of ants to burst from rest into community-wide action. Math may now explain this.",
-      "summary": "Scientists have finally used math to solve a decades-old mystery about what causes resting ants to suddenly burst into community-wide action. This new research explains why colonies of sleeping ants suddenly explode with activity."
     }
   ]
 }
