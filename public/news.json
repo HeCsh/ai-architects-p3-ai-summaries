@@ -1,13 +1,34 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-11T17:15:46.571Z",
+  "updatedAt": "2026-11-12T00:49:41.070Z",
   "articles": [
     {
       "title": "Some video games offer mental-health benefits",
       "link": "https://www.snexplores.org/article/video-games-help-mental-health",
       "published": "2026-11-11T11:30:00.000Z",
       "snippet": "The PlaySmart video game lowered teens’ symptoms of depression. This benefit was still there a year after they stopped playing the game.",
+      "summary": "Playing the video game PlaySmart lowered depression symptoms in teens. This mental health benefit lasted for a year after they stopped playing."
+    },
+    {
+      "title": "Some video games offer mental-health benefits",
+      "link": "https://www.snexplores.org/article/video-games-help-mental-health",
+      "published": "2026-11-11T11:30:00.000Z",
+      "snippet": "The PlaySmart video game lowered teens’ symptoms of depression. This benefit was still there a year after they stopped playing the game.",
       "summary": "The PlaySmart video game helped lower depression symptoms in teenagers. This mental health benefit lasted for a full year after the teens stopped playing the game."
+    },
+    {
+      "title": "Four T. rex footprints hint at how fast it traveled",
+      "link": "https://www.snexplores.org/article/footprints-how-fast-t-rex-walked",
+      "published": "2026-11-10T11:30:00.000Z",
+      "snippet": "Though poorly preserved, the prints suggest the dino ambled at 1.6 meters per second, roughly the speed of a human walking briskly.",
+      "summary": "Four poorly preserved T. rex footprints suggest the dinosaur traveled at 1.6 meters per second. This speed is roughly as fast as a human walking briskly."
+    },
+    {
+      "title": "This teen piloted an underwater robot to study kelp forests",
+      "link": "https://www.snexplores.org/article/underwater-robot-kelp-forests-jic",
+      "published": "2026-11-10T11:30:00.000Z",
+      "snippet": "His observations offer new insight into why some kelp beds are thriving as others are declining.",
+      "summary": "A teenager piloted an underwater robot to study kelp forests. These observations provide new insights into why some kelp beds are thriving while others decline."
     },
     {
       "title": "Four T. rex footprints hint at how fast it traveled",
@@ -64,27 +85,6 @@
       "published": "2026-11-10T11:30:00.000Z",
       "snippet": "His observations offer new insight into why some kelp beds are thriving as others are declining.",
       "summary": "A teenager used an underwater robot to study kelp forests. These observations provide new information on why some kelp beds are thriving while others are declining."
-    },
-    {
-      "title": "Scientists Say: Occultation",
-      "link": "https://www.snexplores.org/article/scientists-say-occultation-definition-pronunciation",
-      "published": "2026-11-09T11:30:00.000Z",
-      "snippet": "Thanks to one of these events in 1977, astronomers discovered Uranus's rings.",
-      "summary": "Astronomers discovered the rings of Uranus in 1977 thanks to a special event called an occultation. This discovery happened because of one of these specific events that took place that year."
-    },
-    {
-      "title": "Seals long ago evolved to hear above the water — and below",
-      "link": "https://www.snexplores.org/article/seal-ears-hearing-air-underwater",
-      "published": "2026-11-09T11:30:00.000Z",
-      "snippet": "Spongy tissue that fills with blood makes this possible, show X-ray scans of hundreds of ears from seals and other animals.",
-      "summary": "X-ray scans show that seals have spongy tissue filled with blood in their ears. This special adaptation allows seals to hear both above and below the water."
-    },
-    {
-      "title": "Scientists Say: Occultation",
-      "link": "https://www.snexplores.org/article/scientists-say-occultation-definition-pronunciation",
-      "published": "2026-11-09T11:30:00.000Z",
-      "snippet": "Thanks to one of these events in 1977, astronomers discovered Uranus's rings.",
-      "summary": "Astronomers used a space event called an occultation to discover the rings of Uranus in 1977. This important scientific discovery happened thanks to one of these special events."
     }
   ]
 }
