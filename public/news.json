@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-14T01:29:14.054Z",
+  "updatedAt": "2026-11-14T10:38:31.453Z",
   "articles": [
+    {
+      "title": "How brain-eating amoebas may wriggle into someone’s brain",
+      "link": "https://www.snexplores.org/article/how-brain-eating-amoebas-infect",
+      "published": "2026-11-13T11:30:00.000Z",
+      "snippet": "Naegleria amoebas are dogged explorers, especially in tight spaces. These behaviors might help these brain-eating microbes crawl into our heads.",
+      "summary": "Naegleria amoebas are explorers that like tight spaces, which helps these brain-eating microbes crawl into our heads."
+    },
     {
       "title": "How brain-eating amoebas may wriggle into someone’s brain",
       "link": "https://www.snexplores.org/article/how-brain-eating-amoebas-infect",
@@ -15,6 +22,13 @@
       "published": "2026-11-13T11:30:00.000Z",
       "snippet": "Naegleria amoebas are dogged explorers, especially in tight spaces. These behaviors might help these brain-eating microbes crawl into our heads.",
       "summary": "Naegleria amoebas are explorers that like tight spaces. These behaviors might help these brain-eating microbes crawl into our heads."
+    },
+    {
+      "title": "Ocean cold snaps can imperil sea turtles. Rescuers can help",
+      "link": "https://www.snexplores.org/article/cold-sea-turtles-rescue",
+      "published": "2026-11-12T11:30:00.000Z",
+      "snippet": "Climate-driven ocean changes are stranding thousands of sea turtles on beaches, too cold to swim or eat. Special hospitals give some a fighting chance.",
+      "summary": "Climate-driven ocean changes are stranding thousands of cold and hungry sea turtles on beaches. Special hospitals are now helping many of these animals recover."
     },
     {
       "title": "Ocean cold snaps can imperil sea turtles. Rescuers can help",
@@ -56,6 +70,13 @@
       "link": "https://www.snexplores.org/article/video-games-help-mental-health",
       "published": "2026-11-11T11:30:00.000Z",
       "snippet": "The PlaySmart video game lowered teens’ symptoms of depression. This benefit was still there a year after they stopped playing the game.",
+      "summary": "The PlaySmart video game helped lower depression symptoms in teenagers. This mental health benefit lasted for a full year after the teens stopped playing."
+    },
+    {
+      "title": "Some video games offer mental-health benefits",
+      "link": "https://www.snexplores.org/article/video-games-help-mental-health",
+      "published": "2026-11-11T11:30:00.000Z",
+      "snippet": "The PlaySmart video game lowered teens’ symptoms of depression. This benefit was still there a year after they stopped playing the game.",
       "summary": "Playing the video game PlaySmart lowered depression symptoms in teens. This mental health benefit lasted for a year after they stopped playing."
     },
     {
@@ -64,27 +85,6 @@
       "published": "2026-11-11T11:30:00.000Z",
       "snippet": "The PlaySmart video game lowered teens’ symptoms of depression. This benefit was still there a year after they stopped playing the game.",
       "summary": "A video game called PlaySmart lowered depression symptoms in teenagers. This mental-health benefit lasted for a whole year after they stopped playing."
-    },
-    {
-      "title": "Some video games offer mental-health benefits",
-      "link": "https://www.snexplores.org/article/video-games-help-mental-health",
-      "published": "2026-11-11T11:30:00.000Z",
-      "snippet": "The PlaySmart video game lowered teens’ symptoms of depression. This benefit was still there a year after they stopped playing the game.",
-      "summary": "A video game called PlaySmart lowered depression symptoms in teens. This mental health benefit lasted for a year after they stopped playing."
-    },
-    {
-      "title": "Some video games offer mental-health benefits",
-      "link": "https://www.snexplores.org/article/video-games-help-mental-health",
-      "published": "2026-11-11T11:30:00.000Z",
-      "snippet": "The PlaySmart video game lowered teens’ symptoms of depression. This benefit was still there a year after they stopped playing the game.",
-      "summary": "Playing the PlaySmart video game lowered depression symptoms in teens. This mental health benefit lasted for a year after they stopped playing."
-    },
-    {
-      "title": "Some video games offer mental-health benefits",
-      "link": "https://www.snexplores.org/article/video-games-help-mental-health",
-      "published": "2026-11-11T11:30:00.000Z",
-      "snippet": "The PlaySmart video game lowered teens’ symptoms of depression. This benefit was still there a year after they stopped playing the game.",
-      "summary": "A video game called PlaySmart lowered depression symptoms in teens. This mental health benefit lasted for a year after they stopped playing."
     }
   ]
 }
