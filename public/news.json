@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-15T22:57:04.324Z",
+  "updatedAt": "2026-11-16T06:44:38.337Z",
   "articles": [
+    {
+      "title": "How brain-eating amoebas may wriggle into someone’s brain",
+      "link": "https://www.snexplores.org/article/how-brain-eating-amoebas-infect",
+      "published": "2026-11-13T11:30:00.000Z",
+      "snippet": "Naegleria amoebas are dogged explorers, especially in tight spaces. These behaviors might help these brain-eating microbes crawl into our heads.",
+      "summary": "Brain-eating Naegleria amoebas are dogged explorers, especially in tight spaces. These behaviors might help these microbes crawl into our heads."
+    },
     {
       "title": "How brain-eating amoebas may wriggle into someone’s brain",
       "link": "https://www.snexplores.org/article/how-brain-eating-amoebas-infect",
@@ -63,6 +70,13 @@
       "link": "https://www.snexplores.org/article/cold-sea-turtles-rescue",
       "published": "2026-11-12T11:30:00.000Z",
       "snippet": "Climate-driven ocean changes are stranding thousands of sea turtles on beaches, too cold to swim or eat. Special hospitals give some a fighting chance.",
+      "summary": "Climate change is causing ocean cold snaps that strand thousands of sea turtles on beaches, leaving them too cold to swim or eat. Special hospitals are now helping to rescue and treat these turtles to give them a fighting chance."
+    },
+    {
+      "title": "Ocean cold snaps can imperil sea turtles. Rescuers can help",
+      "link": "https://www.snexplores.org/article/cold-sea-turtles-rescue",
+      "published": "2026-11-12T11:30:00.000Z",
+      "snippet": "Climate-driven ocean changes are stranding thousands of sea turtles on beaches, too cold to swim or eat. Special hospitals give some a fighting chance.",
       "summary": "Climate change is causing ocean cold snaps that strand thousands of sea turtles on beaches, leaving them too cold to swim or eat. Special hospitals are helping to save some of these turtles by giving them a fighting chance."
     },
     {
@@ -71,20 +85,6 @@
       "published": "2026-11-12T11:30:00.000Z",
       "snippet": "Climate-driven ocean changes are stranding thousands of sea turtles on beaches, too cold to swim or eat. Special hospitals give some a fighting chance.",
       "summary": "Climate change is causing ocean cold snaps that strand thousands of sea turtles on beaches, leaving them too cold to swim or eat. Special hospitals are helping to save some of these turtles and give them a fighting chance."
-    },
-    {
-      "title": "Ocean cold snaps can imperil sea turtles. Rescuers can help",
-      "link": "https://www.snexplores.org/article/cold-sea-turtles-rescue",
-      "published": "2026-11-12T11:30:00.000Z",
-      "snippet": "Climate-driven ocean changes are stranding thousands of sea turtles on beaches, too cold to swim or eat. Special hospitals give some a fighting chance.",
-      "summary": "Climate change is causing ocean cold snaps that strand thousands of sea turtles on beaches, leaving them too cold to swim or eat. Special hospitals are now helping to rescue and save these animals."
-    },
-    {
-      "title": "Ocean cold snaps can imperil sea turtles. Rescuers can help",
-      "link": "https://www.snexplores.org/article/cold-sea-turtles-rescue",
-      "published": "2026-11-12T11:30:00.000Z",
-      "snippet": "Climate-driven ocean changes are stranding thousands of sea turtles on beaches, too cold to swim or eat. Special hospitals give some a fighting chance.",
-      "summary": "Climate-driven ocean changes are stranding thousands of sea turtles on beaches because they are too cold to swim or eat. Special hospitals are now helping some of these turtles survive."
     }
   ]
 }
