@@ -1,13 +1,27 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-17T16:13:03.503Z",
+  "updatedAt": "2026-11-18T01:00:29.032Z",
   "articles": [
     {
       "title": "Experiment: Construct and test paper rockets",
       "link": "https://www.snexplores.org/article/paper-rocket-experiment-build-test",
       "published": "2026-11-17T11:30:00.000Z",
       "snippet": "Ready for take-off? Build your own rockets with paper, tape and straws. Then, take a deep breath and launch them with your lungs!",
+      "summary": "You can build and test your own paper rockets using just paper, tape, and straws. Then, take a deep breath and launch them using the air from your lungs."
+    },
+    {
+      "title": "Experiment: Construct and test paper rockets",
+      "link": "https://www.snexplores.org/article/paper-rocket-experiment-build-test",
+      "published": "2026-11-17T11:30:00.000Z",
+      "snippet": "Ready for take-off? Build your own rockets with paper, tape and straws. Then, take a deep breath and launch them with your lungs!",
       "summary": "Build your own rockets using paper, tape, and straws. Then, launch them into the air by blowing through a straw with your lungs."
+    },
+    {
+      "title": "Scientists Say: Abyssal Zone",
+      "link": "https://www.snexplores.org/article/scientists-say-abyssal-zone-definition-pronunciation",
+      "published": "2026-11-16T14:04:15.000Z",
+      "snippet": "This layer of the ocean lies far out of reach of sunlight. Yet, life still thrives.",
+      "summary": "The abyssal zone is a layer of the ocean that is completely out of reach of sunlight. Even without the sun, many forms of life still thrive in this deep ocean layer."
     },
     {
       "title": "Scientists Say: Abyssal Zone",
@@ -52,39 +66,25 @@
       "summary": "Scientists have sorted mysterious black holes into four different varieties. These strange objects continue to challenge our understanding of the universe."
     },
     {
+      "title": "Several types of black holes exist. Here’s how they differ",
+      "link": "https://www.snexplores.org/article/types-of-black-holes",
+      "published": "2026-11-16T11:30:00.000Z",
+      "snippet": "These mysterious objects, which scientists have sorted into four different varieties, continue to challenge our understanding of the universe.",
+      "summary": "Scientists have sorted mysterious black holes into four different varieties. These strange objects continue to challenge our understanding of the universe."
+    },
+    {
+      "title": "How brain-eating amoebas may wriggle into someone’s brain",
+      "link": "https://www.snexplores.org/article/how-brain-eating-amoebas-infect",
+      "published": "2026-11-13T11:30:00.000Z",
+      "snippet": "Naegleria amoebas are dogged explorers, especially in tight spaces. These behaviors might help these brain-eating microbes crawl into our heads.",
+      "summary": "Brain-eating amoebas are explorers that like to squeeze into tight spaces. These behaviors might help the microbes crawl into our heads."
+    },
+    {
       "title": "How brain-eating amoebas may wriggle into someone’s brain",
       "link": "https://www.snexplores.org/article/how-brain-eating-amoebas-infect",
       "published": "2026-11-13T11:30:00.000Z",
       "snippet": "Naegleria amoebas are dogged explorers, especially in tight spaces. These behaviors might help these brain-eating microbes crawl into our heads.",
       "summary": "Naegleria amoebas are explorers that like tight spaces, and these behaviors might help the brain-eating microbes crawl into our heads."
-    },
-    {
-      "title": "How brain-eating amoebas may wriggle into someone’s brain",
-      "link": "https://www.snexplores.org/article/how-brain-eating-amoebas-infect",
-      "published": "2026-11-13T11:30:00.000Z",
-      "snippet": "Naegleria amoebas are dogged explorers, especially in tight spaces. These behaviors might help these brain-eating microbes crawl into our heads.",
-      "summary": "Brain-eating amoebas are explorers that like tight spaces. These behaviors might help the microbes crawl into our heads."
-    },
-    {
-      "title": "How brain-eating amoebas may wriggle into someone’s brain",
-      "link": "https://www.snexplores.org/article/how-brain-eating-amoebas-infect",
-      "published": "2026-11-13T11:30:00.000Z",
-      "snippet": "Naegleria amoebas are dogged explorers, especially in tight spaces. These behaviors might help these brain-eating microbes crawl into our heads.",
-      "summary": "Naegleria amoebas are explorers that like tight spaces, and these behaviors might help the brain-eating microbes crawl into our heads."
-    },
-    {
-      "title": "How brain-eating amoebas may wriggle into someone’s brain",
-      "link": "https://www.snexplores.org/article/how-brain-eating-amoebas-infect",
-      "published": "2026-11-13T11:30:00.000Z",
-      "snippet": "Naegleria amoebas are dogged explorers, especially in tight spaces. These behaviors might help these brain-eating microbes crawl into our heads.",
-      "summary": "Brain-eating Naegleria amoebas are dogged explorers, especially in tight spaces. These behaviors might help these microbes crawl into our heads."
-    },
-    {
-      "title": "How brain-eating amoebas may wriggle into someone’s brain",
-      "link": "https://www.snexplores.org/article/how-brain-eating-amoebas-infect",
-      "published": "2026-11-13T11:30:00.000Z",
-      "snippet": "Naegleria amoebas are dogged explorers, especially in tight spaces. These behaviors might help these brain-eating microbes crawl into our heads.",
-      "summary": "Naegleria amoebas are explorers that like tight spaces, and these behaviors might help these brain-eating microbes crawl into our heads."
     }
   ]
 }
