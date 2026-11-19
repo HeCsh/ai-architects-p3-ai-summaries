@@ -1,7 +1,21 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-19T02:38:49.830Z",
+  "updatedAt": "2026-11-19T11:51:56.338Z",
   "articles": [
+    {
+      "title": "Peru’s penguins are in trouble. A super El Niño could worsen things",
+      "link": "https://www.snexplores.org/article/peru-penguins-el-nino-trouble",
+      "published": "2026-11-19T11:30:00.000Z",
+      "snippet": "Bird flu, overfishing and warming seas have crashed the world’s largest colony of Humboldt penguins. Scientists are working to help them bounce back.",
+      "summary": "The world's largest colony of Humboldt penguins has crashed due to bird flu, overfishing, and warming seas. Scientists are now working to help these penguins bounce back."
+    },
+    {
+      "title": "A new flying drone uses touch to perch like a bird",
+      "link": "https://www.snexplores.org/article/flying-drone-perch-like-bird",
+      "published": "2026-11-18T11:30:00.000Z",
+      "snippet": "The drone's human-inspired fingers use touch to get a grip. This avoids some obstacles that come with relying on vision to perch.",
+      "summary": "A new flying drone uses human-inspired fingers and touch to get a grip and perch like a bird. This touch-based method helps the drone avoid some of the obstacles that come with relying on vision."
+    },
     {
       "title": "A new flying drone uses touch to perch like a bird",
       "link": "https://www.snexplores.org/article/flying-drone-perch-like-bird",
@@ -22,6 +36,13 @@
       "published": "2026-11-18T11:30:00.000Z",
       "snippet": "The drone's human-inspired fingers use touch to get a grip. This avoids some obstacles that come with relying on vision to perch.",
       "summary": "A new flying drone uses human-inspired fingers and touch to get a grip and perch like a bird. This touch-based method avoids some obstacles that come with relying on vision."
+    },
+    {
+      "title": "Experiment: Construct and test paper rockets",
+      "link": "https://www.snexplores.org/article/paper-rocket-experiment-build-test",
+      "published": "2026-11-17T11:30:00.000Z",
+      "snippet": "Ready for take-off? Build your own rockets with paper, tape and straws. Then, take a deep breath and launch them with your lungs!",
+      "summary": "Build your own paper rockets using paper, tape, and straws. Then, launch them into the air using just the breath from your lungs."
     },
     {
       "title": "Experiment: Construct and test paper rockets",
@@ -63,28 +84,7 @@
       "link": "https://www.snexplores.org/article/scientists-say-abyssal-zone-definition-pronunciation",
       "published": "2026-11-16T14:04:15.000Z",
       "snippet": "This layer of the ocean lies far out of reach of sunlight. Yet, life still thrives.",
-      "summary": "The abyssal zone is a layer of the ocean that is far out of reach of sunlight. Even without sunlight, life still thrives in this zone."
-    },
-    {
-      "title": "Scientists Say: Abyssal Zone",
-      "link": "https://www.snexplores.org/article/scientists-say-abyssal-zone-definition-pronunciation",
-      "published": "2026-11-16T14:04:15.000Z",
-      "snippet": "This layer of the ocean lies far out of reach of sunlight. Yet, life still thrives.",
-      "summary": "The abyssal zone of the ocean is a layer that lies far out of reach of sunlight. Even though it is dark, life still thrives there."
-    },
-    {
-      "title": "Scientists Say: Abyssal Zone",
-      "link": "https://www.snexplores.org/article/scientists-say-abyssal-zone-definition-pronunciation",
-      "published": "2026-11-16T14:04:15.000Z",
-      "snippet": "This layer of the ocean lies far out of reach of sunlight. Yet, life still thrives.",
-      "summary": "The abyssal zone is a layer of the ocean that is far out of reach of sunlight. Even though it is very dark, life still thrives there."
-    },
-    {
-      "title": "Scientists Say: Abyssal Zone",
-      "link": "https://www.snexplores.org/article/scientists-say-abyssal-zone-definition-pronunciation",
-      "published": "2026-11-16T14:04:15.000Z",
-      "snippet": "This layer of the ocean lies far out of reach of sunlight. Yet, life still thrives.",
-      "summary": "The abyssal zone is a layer of the ocean that is completely out of reach of sunlight. Even without the sun, many forms of life still thrive in this deep ocean layer."
+      "summary": "The abyssal zone is a layer of the ocean that lies far out of reach of sunlight. Despite this darkness, life still thrives there."
     }
   ]
 }
