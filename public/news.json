@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-21T11:21:28.949Z",
+  "updatedAt": "2026-11-21T19:26:18.826Z",
   "articles": [
+    {
+      "title": "Meet Swiftiephylus, a group of insects named after Taylor Swift",
+      "link": "https://www.snexplores.org/article/new-taylor-swift-insects",
+      "published": "2026-11-20T11:30:00.000Z",
+      "snippet": "Four newly described species of Australian plant bug have been named in honor of world-famous pop star Taylor Swift.",
+      "summary": "Four newly discovered species of Australian plant bugs have been named in honor of pop star Taylor Swift. These insects are called Swiftiephylus."
+    },
     {
       "title": "Meet Swiftiephylus, a group of insects named after Taylor Swift",
       "link": "https://www.snexplores.org/article/new-taylor-swift-insects",
@@ -29,6 +36,13 @@
       "published": "2026-11-20T11:30:00.000Z",
       "snippet": "Four newly described species of Australian plant bug have been named in honor of world-famous pop star Taylor Swift.",
       "summary": "Four newly discovered species of Australian plant bugs have been named in honor of the pop star Taylor Swift. These insects are part of a group called Swiftiephylus."
+    },
+    {
+      "title": "Peru’s penguins are in trouble. A super El Niño could worsen things",
+      "link": "https://www.snexplores.org/article/peru-penguins-el-nino-trouble",
+      "published": "2026-11-19T11:30:00.000Z",
+      "snippet": "Bird flu, overfishing and warming seas have crashed the world’s largest colony of Humboldt penguins. Scientists are working to help them bounce back.",
+      "summary": "The world's largest colony of Humboldt penguins is in trouble because of bird flu, overfishing, and warming seas. Scientists are currently working to help these penguins bounce back."
     },
     {
       "title": "Peru’s penguins are in trouble. A super El Niño could worsen things",
@@ -71,20 +85,6 @@
       "published": "2026-11-19T11:30:00.000Z",
       "snippet": "Bird flu, overfishing and warming seas have crashed the world’s largest colony of Humboldt penguins. Scientists are working to help them bounce back.",
       "summary": "Peru's largest colony of Humboldt penguins is struggling due to bird flu, overfishing, and warming seas, while scientists try to help them recover. A super El Nino weather event could make these problems even worse for the penguins."
-    },
-    {
-      "title": "Peru’s penguins are in trouble. A super El Niño could worsen things",
-      "link": "https://www.snexplores.org/article/peru-penguins-el-nino-trouble",
-      "published": "2026-11-19T11:30:00.000Z",
-      "snippet": "Bird flu, overfishing and warming seas have crashed the world’s largest colony of Humboldt penguins. Scientists are working to help them bounce back.",
-      "summary": "The world's largest colony of Humboldt penguins has crashed due to bird flu, overfishing, and warming seas. Scientists are now working to help these penguins bounce back."
-    },
-    {
-      "title": "A new flying drone uses touch to perch like a bird",
-      "link": "https://www.snexplores.org/article/flying-drone-perch-like-bird",
-      "published": "2026-11-18T11:30:00.000Z",
-      "snippet": "The drone's human-inspired fingers use touch to get a grip. This avoids some obstacles that come with relying on vision to perch.",
-      "summary": "A new flying drone uses human-inspired fingers and touch to get a grip and perch like a bird. This method helps the drone avoid some of the obstacles that come with relying on vision."
     }
   ]
 }
