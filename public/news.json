@@ -1,7 +1,35 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-24T02:18:49.902Z",
+  "updatedAt": "2026-11-24T13:55:50.276Z",
   "articles": [
+    {
+      "title": "Meet the first new living cat species described in more than a century",
+      "link": "https://www.snexplores.org/article/new-living-cat-species",
+      "published": "2026-11-24T11:30:00.000Z",
+      "snippet": "Genetic tests on two of these teeny tiger cats, found in Bolivia, show they constitute a new species. They add a new branch to the feline family tree.",
+      "summary": "Genetic tests on two tiny tiger cats found in Bolivia show they are a completely new species. This discovery adds a brand new branch to the feline family tree for the first time in over a hundred years."
+    },
+    {
+      "title": "Hydrogels could help stop wildfires from reigniting, teens find",
+      "link": "https://www.snexplores.org/article/hydrogels-stop-wildfire-reigniting-jic",
+      "published": "2026-11-24T11:30:00.000Z",
+      "snippet": "The brothers custom built a nozzle to spray their fire-retardant hydrogels up to 60 feet.",
+      "summary": "Two teenage brothers created a custom nozzle to spray fire-retardant hydrogels up to 60 feet. These hydrogels could help prevent wildfires from reigniting."
+    },
+    {
+      "title": "Scientists Say: Noise",
+      "link": "https://www.snexplores.org/article/scientists-say-noise-definition-pronunciation",
+      "published": "2026-11-23T11:30:00.000Z",
+      "snippet": "To analyze a messy set of data, scientists must distinguish real information from background “noise.”",
+      "summary": "To make sense of messy data, scientists have to figure out what is real information and what is just background noise."
+    },
+    {
+      "title": "Analyze This: Color might explain baboon’s link to Egyptian god",
+      "link": "https://www.snexplores.org/article/baboon-color-egyptian-moon-god",
+      "published": "2026-11-23T11:30:00.000Z",
+      "snippet": "Ancient Egyptians might have linked hamadryas baboons with the moon god Thoth due to their silvery fur.",
+      "summary": "Ancient Egyptians might have linked hamadryas baboons with the moon god Thoth. This connection could be due to the baboons' silvery fur."
+    },
     {
       "title": "Scientists Say: Noise",
       "link": "https://www.snexplores.org/article/scientists-say-noise-definition-pronunciation",
@@ -35,6 +63,13 @@
       "link": "https://www.snexplores.org/article/new-taylor-swift-insects",
       "published": "2026-11-20T11:30:00.000Z",
       "snippet": "Four newly described species of Australian plant bug have been named in honor of world-famous pop star Taylor Swift.",
+      "summary": "Four new species of Australian plant bugs have been named after pop star Taylor Swift. These insects are called Swiftiephylus."
+    },
+    {
+      "title": "Meet Swiftiephylus, a group of insects named after Taylor Swift",
+      "link": "https://www.snexplores.org/article/new-taylor-swift-insects",
+      "published": "2026-11-20T11:30:00.000Z",
+      "snippet": "Four newly described species of Australian plant bug have been named in honor of world-famous pop star Taylor Swift.",
       "summary": "Four new species of Australian plant bugs have been named after the pop star Taylor Swift. These insects belong to a newly described group called Swiftiephylus."
     },
     {
@@ -50,41 +85,6 @@
       "published": "2026-11-20T11:30:00.000Z",
       "snippet": "Four newly described species of Australian plant bug have been named in honor of world-famous pop star Taylor Swift.",
       "summary": "Four newly discovered species of Australian plant bugs have been named after pop star Taylor Swift. These insects are known as Swiftiephylus."
-    },
-    {
-      "title": "Meet Swiftiephylus, a group of insects named after Taylor Swift",
-      "link": "https://www.snexplores.org/article/new-taylor-swift-insects",
-      "published": "2026-11-20T11:30:00.000Z",
-      "snippet": "Four newly described species of Australian plant bug have been named in honor of world-famous pop star Taylor Swift.",
-      "summary": "Four newly described species of Australian plant bugs have been named after pop star Taylor Swift. These insects are part of a group called Swiftiephylus."
-    },
-    {
-      "title": "Meet Swiftiephylus, a group of insects named after Taylor Swift",
-      "link": "https://www.snexplores.org/article/new-taylor-swift-insects",
-      "published": "2026-11-20T11:30:00.000Z",
-      "snippet": "Four newly described species of Australian plant bug have been named in honor of world-famous pop star Taylor Swift.",
-      "summary": "Four newly discovered species of Australian plant bugs have been named in honor of the pop star Taylor Swift. These insects are part of a group known as Swiftiephylus."
-    },
-    {
-      "title": "Meet Swiftiephylus, a group of insects named after Taylor Swift",
-      "link": "https://www.snexplores.org/article/new-taylor-swift-insects",
-      "published": "2026-11-20T11:30:00.000Z",
-      "snippet": "Four newly described species of Australian plant bug have been named in honor of world-famous pop star Taylor Swift.",
-      "summary": "Four newly described species of Australian plant bug have been named in honor of world-famous pop star Taylor Swift. These insects are part of a group called Swiftiephylus."
-    },
-    {
-      "title": "Meet Swiftiephylus, a group of insects named after Taylor Swift",
-      "link": "https://www.snexplores.org/article/new-taylor-swift-insects",
-      "published": "2026-11-20T11:30:00.000Z",
-      "snippet": "Four newly described species of Australian plant bug have been named in honor of world-famous pop star Taylor Swift.",
-      "summary": "Four newly discovered species of Australian plant bugs have been named in honor of pop star Taylor Swift. These insects are called Swiftiephylus."
-    },
-    {
-      "title": "Meet Swiftiephylus, a group of insects named after Taylor Swift",
-      "link": "https://www.snexplores.org/article/new-taylor-swift-insects",
-      "published": "2026-11-20T11:30:00.000Z",
-      "snippet": "Four newly described species of Australian plant bug have been named in honor of world-famous pop star Taylor Swift.",
-      "summary": "Four newly described species of Australian plant bugs have been named in honor of the pop star Taylor Swift. These insects are part of a group called Swiftiephylus."
     }
   ]
 }
