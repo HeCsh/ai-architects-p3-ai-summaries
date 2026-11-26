@@ -1,6 +1,6 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-26T03:38:27.045Z",
+  "updatedAt": "2026-11-26T17:03:18.681Z",
   "articles": [
     {
       "title": "Insects once had 24 legs",
@@ -14,7 +14,28 @@
       "link": "https://www.snexplores.org/article/insects-had-24-legs",
       "published": "2026-11-25T11:30:00.000Z",
       "snippet": "A many-legged creature from long ago helps fill a major gap in the fossil record — and hints at how today’s insects ended up with just six legs.",
+      "summary": "An ancient many-legged creature helps fill a major gap in the fossil record. It also hints at how today's insects ended up with just six legs."
+    },
+    {
+      "title": "Insects once had 24 legs",
+      "link": "https://www.snexplores.org/article/insects-had-24-legs",
+      "published": "2026-11-25T11:30:00.000Z",
+      "snippet": "A many-legged creature from long ago helps fill a major gap in the fossil record — and hints at how today’s insects ended up with just six legs.",
       "summary": "An ancient many-legged creature helps fill a major gap in the fossil record. This ancient animal also hints at how today's insects ended up with just six legs."
+    },
+    {
+      "title": "Meet the first new living cat species described in more than a century",
+      "link": "https://www.snexplores.org/article/new-living-cat-species",
+      "published": "2026-11-24T11:30:00.000Z",
+      "snippet": "Genetic tests on two of these teeny tiger cats, found in Bolivia, show they constitute a new species. They add a new branch to the feline family tree.",
+      "summary": "Genetic tests on two tiny tiger cats found in Bolivia show they are a completely new species. This discovery adds a brand-new branch to the feline family tree for the first time in over a hundred years."
+    },
+    {
+      "title": "Hydrogels could help stop wildfires from reigniting, teens find",
+      "link": "https://www.snexplores.org/article/hydrogels-stop-wildfire-reigniting-jic",
+      "published": "2026-11-24T11:30:00.000Z",
+      "snippet": "The brothers custom built a nozzle to spray their fire-retardant hydrogels up to 60 feet.",
+      "summary": "Two teenage brothers created a custom nozzle that can spray fire-retardant hydrogels up to 60 feet. This invention could help prevent wildfires from reigniting."
     },
     {
       "title": "Meet the first new living cat species described in more than a century",
@@ -64,27 +85,6 @@
       "published": "2026-11-24T11:30:00.000Z",
       "snippet": "Genetic tests on two of these teeny tiger cats, found in Bolivia, show they constitute a new species. They add a new branch to the feline family tree.",
       "summary": "Genetic tests on two tiny tiger cats from Bolivia show they belong to a brand-new species. This discovery adds an exciting new branch to the feline family tree."
-    },
-    {
-      "title": "Hydrogels could help stop wildfires from reigniting, teens find",
-      "link": "https://www.snexplores.org/article/hydrogels-stop-wildfire-reigniting-jic",
-      "published": "2026-11-24T11:30:00.000Z",
-      "snippet": "The brothers custom built a nozzle to spray their fire-retardant hydrogels up to 60 feet.",
-      "summary": "Two teenage brothers custom built a nozzle that can spray fire-retardant hydrogels up to 60 feet. These hydrogels could help stop wildfires from reigniting."
-    },
-    {
-      "title": "Meet the first new living cat species described in more than a century",
-      "link": "https://www.snexplores.org/article/new-living-cat-species",
-      "published": "2026-11-24T11:30:00.000Z",
-      "snippet": "Genetic tests on two of these teeny tiger cats, found in Bolivia, show they constitute a new species. They add a new branch to the feline family tree.",
-      "summary": "Genetic tests on two tiny tiger cats found in Bolivia show they are a completely new species. This discovery adds a brand new branch to the feline family tree for the first time in over a hundred years."
-    },
-    {
-      "title": "Hydrogels could help stop wildfires from reigniting, teens find",
-      "link": "https://www.snexplores.org/article/hydrogels-stop-wildfire-reigniting-jic",
-      "published": "2026-11-24T11:30:00.000Z",
-      "snippet": "The brothers custom built a nozzle to spray their fire-retardant hydrogels up to 60 feet.",
-      "summary": "Two teenage brothers created a custom nozzle to spray fire-retardant hydrogels up to 60 feet. These hydrogels could help prevent wildfires from reigniting."
     }
   ]
 }
